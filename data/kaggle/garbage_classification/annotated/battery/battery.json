@@ -1,0 +1,2922 @@
+{
+    "battery1.jpg": {
+        "filename": "battery1.jpg",
+        "size": 7405,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 31,
+                    "width": 222,
+                    "height": 65
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 26,
+                    "y": 91,
+                    "width": 229,
+                    "height": 69
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery3.jpg": {
+        "filename": "battery3.jpg",
+        "size": 3595,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 72,
+                    "width": 176,
+                    "height": 54
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery7.jpg": {
+        "filename": "battery7.jpg",
+        "size": 10480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 24,
+                    "width": 56,
+                    "height": 143
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 25,
+                    "width": 52,
+                    "height": 144
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 159,
+                    "y": 27,
+                    "width": 50,
+                    "height": 144
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery19.jpg": {
+        "filename": "battery19.jpg",
+        "size": 5089,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 25,
+                    "width": 39,
+                    "height": 136
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 145,
+                    "y": 26,
+                    "width": 39,
+                    "height": 134
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery22.jpg": {
+        "filename": "battery22.jpg",
+        "size": 6049,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 61,
+                    "width": 45,
+                    "height": 86
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 77,
+                    "width": 34,
+                    "height": 68
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 80,
+                    "width": 19,
+                    "height": 66
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 137,
+                    "y": 89,
+                    "width": 15,
+                    "height": 58
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 93,
+                    "width": 11,
+                    "height": 54
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 81,
+                    "width": 36,
+                    "height": 65
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery29.jpg": {
+        "filename": "battery29.jpg",
+        "size": 4174,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 87,
+                    "width": 180,
+                    "height": 75
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery30.jpg": {
+        "filename": "battery30.jpg",
+        "size": 7442,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 8,
+                    "width": 74,
+                    "height": 132
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 17,
+                    "width": 50,
+                    "height": 101
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 146,
+                    "y": 71,
+                    "width": 23,
+                    "height": 87
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 187,
+                    "y": 24,
+                    "width": 52,
+                    "height": 94
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 168,
+                    "y": 57,
+                    "width": 31,
+                    "height": 102
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery32.jpg": {
+        "filename": "battery32.jpg",
+        "size": 4816,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 1,
+                    "width": 64,
+                    "height": 130
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 0,
+                    "width": 90,
+                    "height": 130
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery33.jpg": {
+        "filename": "battery33.jpg",
+        "size": 8411,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 23,
+                    "width": 40,
+                    "height": 148
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 153,
+                    "y": 8,
+                    "width": 51,
+                    "height": 186
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery34.jpg": {
+        "filename": "battery34.jpg",
+        "size": 4161,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 47,
+                    "width": 42,
+                    "height": 156
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 48,
+                    "width": 42,
+                    "height": 154
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery35.jpg": {
+        "filename": "battery35.jpg",
+        "size": 5141,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 13,
+                    "width": 84,
+                    "height": 163
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery36.jpg": {
+        "filename": "battery36.jpg",
+        "size": 4652,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 54,
+                    "width": 207,
+                    "height": 58
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery37.jpg": {
+        "filename": "battery37.jpg",
+        "size": 5691,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 4,
+                    "width": 59,
+                    "height": 212
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 150,
+                    "width": 190,
+                    "height": 71
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery38.jpg": {
+        "filename": "battery38.jpg",
+        "size": 4182,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 28,
+                    "width": 46,
+                    "height": 190
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery40.jpg": {
+        "filename": "battery40.jpg",
+        "size": 7367,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 8,
+                    "width": 63,
+                    "height": 155
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 8,
+                    "width": 55,
+                    "height": 155
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 176,
+                    "y": 11,
+                    "width": 69,
+                    "height": 157
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery42.jpg": {
+        "filename": "battery42.jpg",
+        "size": 6168,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 13,
+                    "width": 40,
+                    "height": 168
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 136,
+                    "y": 13,
+                    "width": 39,
+                    "height": 167
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery43.jpg": {
+        "filename": "battery43.jpg",
+        "size": 6204,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 41,
+                    "width": 39,
+                    "height": 110
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 34,
+                    "width": 36,
+                    "height": 108
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 125,
+                    "y": 39,
+                    "width": 32,
+                    "height": 108
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 38,
+                    "width": 32,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 227,
+                    "y": 40,
+                    "width": 40,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 196,
+                    "y": 32,
+                    "width": 34,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 241,
+                    "y": 24,
+                    "width": 31,
+                    "height": 104
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 26,
+                    "width": 33,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 204,
+                    "y": 19,
+                    "width": 31,
+                    "height": 44
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 22,
+                    "width": 30,
+                    "height": 120
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 26,
+                    "width": 33,
+                    "height": 109
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 7,
+                    "width": 31,
+                    "height": 31
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 141,
+                    "y": 23,
+                    "width": 31,
+                    "height": 19
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 173,
+                    "y": 11,
+                    "width": 29,
+                    "height": 17
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 169,
+                    "y": 23,
+                    "width": 33,
+                    "height": 18
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery49.jpg": {
+        "filename": "battery49.jpg",
+        "size": 5863,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 18,
+                    "width": 67,
+                    "height": 188
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 133,
+                    "y": 16,
+                    "width": 81,
+                    "height": 190
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 114,
+                    "width": 125,
+                    "height": 48
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery50.jpg": {
+        "filename": "battery50.jpg",
+        "size": 8894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 40,
+                    "width": 41,
+                    "height": 148
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 39,
+                    "width": 42,
+                    "height": 147
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 39,
+                    "width": 41,
+                    "height": 148
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 154,
+                    "y": 38,
+                    "width": 40,
+                    "height": 148
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery56.jpg": {
+        "filename": "battery56.jpg",
+        "size": 6617,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 50,
+                    "width": 26,
+                    "height": 133
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 51,
+                    "width": 27,
+                    "height": 133
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 50,
+                    "width": 28,
+                    "height": 134
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 145,
+                    "y": 50,
+                    "width": 27,
+                    "height": 135
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery61.jpg": {
+        "filename": "battery61.jpg",
+        "size": 4342,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 19,
+                    "width": 55,
+                    "height": 194
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery65.jpg": {
+        "filename": "battery65.jpg",
+        "size": 6802,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 13,
+                    "width": 78,
+                    "height": 171
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 99,
+                    "width": 167,
+                    "height": 106
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery74.jpg": {
+        "filename": "battery74.jpg",
+        "size": 12310,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 17,
+                    "width": 42,
+                    "height": 149
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 15,
+                    "width": 44,
+                    "height": 152
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 158,
+                    "y": 17,
+                    "width": 42,
+                    "height": 151
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 234,
+                    "y": 18,
+                    "width": 43,
+                    "height": 148
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery89.jpg": {
+        "filename": "battery89.jpg",
+        "size": 5935,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 65,
+                    "width": 100,
+                    "height": 63
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 68,
+                    "width": 98,
+                    "height": 63
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 69,
+                    "width": 98,
+                    "height": 65
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 140,
+                    "y": 71,
+                    "width": 101,
+                    "height": 66
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery98.jpg": {
+        "filename": "battery98.jpg",
+        "size": 5725,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 27,
+                    "width": 50,
+                    "height": 178
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 152,
+                    "width": 176,
+                    "height": 57
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery103.jpg": {
+        "filename": "battery103.jpg",
+        "size": 8327,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 20,
+                    "width": 182,
+                    "height": 67
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 49,
+                    "width": 210,
+                    "height": 110
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery111.jpg": {
+        "filename": "battery111.jpg",
+        "size": 6933,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 110,
+                    "width": 70,
+                    "height": 45
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 59,
+                    "width": 54,
+                    "height": 87
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 98,
+                    "width": 33,
+                    "height": 68
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 13,
+                    "width": 54,
+                    "height": 130
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 190,
+                    "y": 75,
+                    "width": 52,
+                    "height": 63
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 194,
+                    "y": 114,
+                    "width": 85,
+                    "height": 45
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery119.jpg": {
+        "filename": "battery119.jpg",
+        "size": 5738,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 0,
+                    "width": 121,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery120.jpg": {
+        "filename": "battery120.jpg",
+        "size": 4842,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 6,
+                    "width": 56,
+                    "height": 213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery121.jpg": {
+        "filename": "battery121.jpg",
+        "size": 5190,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 18,
+                    "width": 99,
+                    "height": 188
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery125.jpg": {
+        "filename": "battery125.jpg",
+        "size": 2780,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 30,
+                    "width": 54,
+                    "height": 163
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery127.jpg": {
+        "filename": "battery127.jpg",
+        "size": 3352,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 42,
+                    "width": 44,
+                    "height": 97
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 89,
+                    "width": 96,
+                    "height": 62
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery129.jpg": {
+        "filename": "battery129.jpg",
+        "size": 7055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 13,
+                    "width": 85,
+                    "height": 165
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery130.jpg": {
+        "filename": "battery130.jpg",
+        "size": 3730,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 5,
+                    "width": 61,
+                    "height": 216
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery132.jpg": {
+        "filename": "battery132.jpg",
+        "size": 3867,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 17,
+                    "width": 96,
+                    "height": 191
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery142.jpg": {
+        "filename": "battery142.jpg",
+        "size": 4058,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 21,
+                    "width": 95,
+                    "height": 183
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery143.jpg": {
+        "filename": "battery143.jpg",
+        "size": 3329,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 30,
+                    "width": 43,
+                    "height": 149
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery148.jpg": {
+        "filename": "battery148.jpg",
+        "size": 6616,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 44,
+                    "width": 58,
+                    "height": 115
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 10,
+                    "width": 74,
+                    "height": 141
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151,
+                    "y": 39,
+                    "width": 64,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 144,
+                    "width": 97,
+                    "height": 31
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 125,
+                    "y": 132,
+                    "width": 110,
+                    "height": 44
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery149.jpg": {
+        "filename": "battery149.jpg",
+        "size": 6105,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 12,
+                    "width": 141,
+                    "height": 246
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery155.jpg": {
+        "filename": "battery155.jpg",
+        "size": 5515,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 19,
+                    "width": 32,
+                    "height": 110
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 30,
+                    "width": 53,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 46,
+                    "width": 24,
+                    "height": 83
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 190,
+                    "y": 52,
+                    "width": 19,
+                    "height": 74
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 219,
+                    "y": 68,
+                    "width": 28,
+                    "height": 57
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 255,
+                    "y": 78,
+                    "width": 25,
+                    "height": 45
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery163.jpg": {
+        "filename": "battery163.jpg",
+        "size": 19495,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 2,
+                    "width": 58,
+                    "height": 200
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 1,
+                    "width": 58,
+                    "height": 198
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 0,
+                    "width": 59,
+                    "height": 200
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 189,
+                    "y": 1,
+                    "width": 58,
+                    "height": 200
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery164.jpg": {
+        "filename": "battery164.jpg",
+        "size": 7889,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 48,
+                    "width": 22,
+                    "height": 90
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 31,
+                    "width": 33,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 21,
+                    "width": 57,
+                    "height": 118
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 234,
+                    "y": 5,
+                    "width": 67,
+                    "height": 133
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery173.jpg": {
+        "filename": "battery173.jpg",
+        "size": 4560,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 0,
+                    "width": 112,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery178.jpg": {
+        "filename": "battery178.jpg",
+        "size": 4636,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 3,
+                    "width": 62,
+                    "height": 222
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery180.jpg": {
+        "filename": "battery180.jpg",
+        "size": 6888,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 30,
+                    "width": 48,
+                    "height": 171
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery182.jpg": {
+        "filename": "battery182.jpg",
+        "size": 5719,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 37,
+                    "width": 195,
+                    "height": 100
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery185.jpg": {
+        "filename": "battery185.jpg",
+        "size": 6132,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 0,
+                    "width": 119,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery192.jpg": {
+        "filename": "battery192.jpg",
+        "size": 7318,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 0,
+                    "width": 64,
+                    "height": 225
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery203.jpg": {
+        "filename": "battery203.jpg",
+        "size": 4750,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 8,
+                    "width": 59,
+                    "height": 211
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery206.jpg": {
+        "filename": "battery206.jpg",
+        "size": 5978,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 2,
+                    "width": 125,
+                    "height": 220
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery207.jpg": {
+        "filename": "battery207.jpg",
+        "size": 4860,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 26,
+                    "width": 78,
+                    "height": 147
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery209.jpg": {
+        "filename": "battery209.jpg",
+        "size": 4927,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 53,
+                    "width": 124,
+                    "height": 86
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 89,
+                    "width": 125,
+                    "height": 88
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery212.jpg": {
+        "filename": "battery212.jpg",
+        "size": 12035,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 35,
+                    "width": 62,
+                    "height": 116
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 47,
+                    "width": 23,
+                    "height": 103
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 32,
+                    "width": 33,
+                    "height": 118
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 168,
+                    "y": 29,
+                    "width": 60,
+                    "height": 121
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 247,
+                    "y": 3,
+                    "width": 78,
+                    "height": 147
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery214.jpg": {
+        "filename": "battery214.jpg",
+        "size": 9413,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 58,
+                    "width": 58,
+                    "height": 112
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 72,
+                    "width": 30,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 85,
+                    "width": 23,
+                    "height": 84
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 102,
+                    "width": 35,
+                    "height": 67
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery219.jpg": {
+        "filename": "battery219.jpg",
+        "size": 8173,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 10,
+                    "width": 119,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery227.jpg": {
+        "filename": "battery227.jpg",
+        "size": 14397,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 12,
+                    "width": 58,
+                    "height": 190
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 11,
+                    "width": 57,
+                    "height": 190
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 125,
+                    "y": 12,
+                    "width": 57,
+                    "height": 189
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 11,
+                    "width": 58,
+                    "height": 190
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery228.jpg": {
+        "filename": "battery228.jpg",
+        "size": 4922,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 1,
+                    "width": 97,
+                    "height": 223
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery229.jpg": {
+        "filename": "battery229.jpg",
+        "size": 3886,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 1,
+                    "width": 58,
+                    "height": 205
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery230.jpg": {
+        "filename": "battery230.jpg",
+        "size": 13738,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 13,
+                    "y": 2,
+                    "width": 111,
+                    "height": 202
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 121,
+                    "y": 1,
+                    "width": 111,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery233.jpg": {
+        "filename": "battery233.jpg",
+        "size": 8402,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 24,
+                    "width": 124,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery241.jpg": {
+        "filename": "battery241.jpg",
+        "size": 7840,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 56,
+                    "width": 50,
+                    "height": 95
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 66,
+                    "width": 21,
+                    "height": 87
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 55,
+                    "width": 27,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 55,
+                    "width": 49,
+                    "height": 98
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 179,
+                    "y": 35,
+                    "width": 62,
+                    "height": 120
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery242.jpg": {
+        "filename": "battery242.jpg",
+        "size": 11675,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 4,
+                    "width": 51,
+                    "height": 180
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 3,
+                    "width": 52,
+                    "height": 182
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 138,
+                    "y": 3,
+                    "width": 51,
+                    "height": 181
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 4,
+                    "width": 50,
+                    "height": 182
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery255.jpg": {
+        "filename": "battery255.jpg",
+        "size": 4118,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 86,
+                    "width": 214,
+                    "height": 59
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery276.jpg": {
+        "filename": "battery276.jpg",
+        "size": 7055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 41,
+                    "width": 272,
+                    "height": 73
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery429.jpg": {
+        "filename": "battery429.jpg",
+        "size": 4431,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 13,
+                    "y": 63,
+                    "width": 232,
+                    "height": 71
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery440.jpg": {
+        "filename": "battery440.jpg",
+        "size": 3660,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 84,
+                    "width": 185,
+                    "height": 65
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery443.jpg": {
+        "filename": "battery443.jpg",
+        "size": 4103,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 77,
+                    "width": 199,
+                    "height": 62
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery444.jpg": {
+        "filename": "battery444.jpg",
+        "size": 5816,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 84,
+                    "width": 219,
+                    "height": 59
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery489.jpg": {
+        "filename": "battery489.jpg",
+        "size": 3884,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 77,
+                    "width": 198,
+                    "height": 77
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery506.jpg": {
+        "filename": "battery506.jpg",
+        "size": 4815,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 38,
+                    "width": 105,
+                    "height": 151
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery512.jpg": {
+        "filename": "battery512.jpg",
+        "size": 6744,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 20,
+                    "width": 145,
+                    "height": 185
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery515.jpg": {
+        "filename": "battery515.jpg",
+        "size": 6771,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 1,
+                    "width": 156,
+                    "height": 197
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery520.jpg": {
+        "filename": "battery520.jpg",
+        "size": 4775,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 58,
+                    "width": 73,
+                    "height": 150
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery525.jpg": {
+        "filename": "battery525.jpg",
+        "size": 5049,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 23,
+                    "width": 95,
+                    "height": 120
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 22,
+                    "width": 103,
+                    "height": 143
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery537.jpg": {
+        "filename": "battery537.jpg",
+        "size": 4070,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 62,
+                    "width": 91,
+                    "height": 101
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 63,
+                    "width": 91,
+                    "height": 100
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery556.jpg": {
+        "filename": "battery556.jpg",
+        "size": 4979,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 38,
+                    "width": 123,
+                    "height": 147
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery558.jpg": {
+        "filename": "battery558.jpg",
+        "size": 6376,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 40,
+                    "width": 154,
+                    "height": 177
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery567.jpg": {
+        "filename": "battery567.jpg",
+        "size": 7432,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 34,
+                    "width": 129,
+                    "height": 90
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery568.jpg": {
+        "filename": "battery568.jpg",
+        "size": 5107,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 49,
+                    "width": 84,
+                    "height": 163
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery599.jpg": {
+        "filename": "battery599.jpg",
+        "size": 4775,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 29,
+                    "width": 152,
+                    "height": 168
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery624.jpg": {
+        "filename": "battery624.jpg",
+        "size": 6627,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 6,
+                    "width": 116,
+                    "height": 163
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 24,
+                    "width": 119,
+                    "height": 164
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery625.jpg": {
+        "filename": "battery625.jpg",
+        "size": 6165,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 62,
+                    "width": 175,
+                    "height": 128
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery626.jpg": {
+        "filename": "battery626.jpg",
+        "size": 6359,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 68,
+                    "width": 99,
+                    "height": 149
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery629.jpg": {
+        "filename": "battery629.jpg",
+        "size": 5585,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 34,
+                    "width": 128,
+                    "height": 154
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery663.jpg": {
+        "filename": "battery663.jpg",
+        "size": 3501,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 31,
+                    "width": 98,
+                    "height": 137
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery694.jpg": {
+        "filename": "battery694.jpg",
+        "size": 3331,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 32,
+                    "width": 83,
+                    "height": 127
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery759.jpg": {
+        "filename": "battery759.jpg",
+        "size": 7562,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 41,
+                    "width": 54,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 43,
+                    "width": 35,
+                    "height": 104
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 54,
+                    "width": 22,
+                    "height": 90
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151,
+                    "y": 84,
+                    "width": 21,
+                    "height": 60
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 44,
+                    "width": 54,
+                    "height": 101
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery764.jpg": {
+        "filename": "battery764.jpg",
+        "size": 5324,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 11,
+                    "width": 47,
+                    "height": 154
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 105,
+                    "width": 111,
+                    "height": 75
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery766.jpg": {
+        "filename": "battery766.jpg",
+        "size": 4976,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 55,
+                    "width": 64,
+                    "height": 125
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 53,
+                    "width": 54,
+                    "height": 125
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 48,
+                    "width": 45,
+                    "height": 123
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 137,
+                    "y": 48,
+                    "width": 45,
+                    "height": 122
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 165,
+                    "y": 45,
+                    "width": 58,
+                    "height": 122
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery779.jpg": {
+        "filename": "battery779.jpg",
+        "size": 6291,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 30,
+                    "width": 50,
+                    "height": 128
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 13,
+                    "width": 57,
+                    "height": 150
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 12,
+                    "width": 51,
+                    "height": 154
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 163,
+                    "y": 36,
+                    "width": 37,
+                    "height": 135
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery780.jpg": {
+        "filename": "battery780.jpg",
+        "size": 4745,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 17,
+                    "width": 78,
+                    "height": 149
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58,
+                    "y": 85,
+                    "width": 149,
+                    "height": 121
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery781.jpg": {
+        "filename": "battery781.jpg",
+        "size": 4467,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 51,
+                    "width": 39,
+                    "height": 69
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 59,
+                    "width": 16,
+                    "height": 63
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 51,
+                    "width": 21,
+                    "height": 72
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 172,
+                    "y": 52,
+                    "width": 37,
+                    "height": 72
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 231,
+                    "y": 37,
+                    "width": 48,
+                    "height": 91
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery818.jpg": {
+        "filename": "battery818.jpg",
+        "size": 9210,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 36,
+                    "width": 59,
+                    "height": 109
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 36,
+                    "width": 56,
+                    "height": 108
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 37,
+                    "width": 60,
+                    "height": 106
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 186,
+                    "y": 37,
+                    "width": 64,
+                    "height": 105
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery826.jpg": {
+        "filename": "battery826.jpg",
+        "size": 15689,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 22,
+                    "width": 75,
+                    "height": 139
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 20,
+                    "width": 72,
+                    "height": 143
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 171,
+                    "y": 22,
+                    "width": 75,
+                    "height": 141
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery839.jpg": {
+        "filename": "battery839.jpg",
+        "size": 9862,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 33,
+                    "width": 82,
+                    "height": 148
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 147,
+                    "y": 33,
+                    "width": 81,
+                    "height": 145
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery841.jpg": {
+        "filename": "battery841.jpg",
+        "size": 9546,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 24,
+                    "width": 49,
+                    "height": 175
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 23,
+                    "width": 50,
+                    "height": 177
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 24,
+                    "width": 50,
+                    "height": 178
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 24,
+                    "width": 50,
+                    "height": 179
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery862.jpg": {
+        "filename": "battery862.jpg",
+        "size": 6073,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 34,
+                    "width": 87,
+                    "height": 213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery866.jpg": {
+        "filename": "battery866.jpg",
+        "size": 4585,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 11,
+                    "width": 222,
+                    "height": 83
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 55,
+                    "width": 234,
+                    "height": 103
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery885.jpg": {
+        "filename": "battery885.jpg",
+        "size": 3445,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 44,
+                    "width": 72,
+                    "height": 156
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "battery908.jpg": {
+        "filename": "battery908.jpg",
+        "size": 5992,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 73,
+                    "width": 141,
+                    "height": 105
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 10,
+                    "width": 84,
+                    "height": 155
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}

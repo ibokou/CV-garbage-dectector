@@ -1,0 +1,2622 @@
+{
+    "shoes1.jpg": {
+        "filename": "shoes1.jpg",
+        "size": 33050,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 63,
+                    "width": 116,
+                    "height": 313
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 205,
+                    "y": 73,
+                    "width": 118,
+                    "height": 321
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes3.jpg": {
+        "filename": "shoes3.jpg",
+        "size": 28839,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 143,
+                    "y": 100,
+                    "width": 199,
+                    "height": 193
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 203,
+                    "y": 112,
+                    "width": 185,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes4.jpg": {
+        "filename": "shoes4.jpg",
+        "size": 20756,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 156,
+                    "width": 179,
+                    "height": 274
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 126,
+                    "width": 126,
+                    "height": 273
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes7.jpg": {
+        "filename": "shoes7.jpg",
+        "size": 20633,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 154,
+                    "width": 131,
+                    "height": 285
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 163,
+                    "y": 131,
+                    "width": 204,
+                    "height": 276
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes8.jpg": {
+        "filename": "shoes8.jpg",
+        "size": 15678,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 65,
+                    "width": 133,
+                    "height": 283
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 224,
+                    "y": 68,
+                    "width": 133,
+                    "height": 305
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes9.jpg": {
+        "filename": "shoes9.jpg",
+        "size": 18823,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 111,
+                    "width": 149,
+                    "height": 309
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 88,
+                    "width": 133,
+                    "height": 301
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes10.jpg": {
+        "filename": "shoes10.jpg",
+        "size": 35915,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 115,
+                    "width": 142,
+                    "height": 282
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 217,
+                    "y": 38,
+                    "width": 140,
+                    "height": 274
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes16.jpg": {
+        "filename": "shoes16.jpg",
+        "size": 23561,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 145,
+                    "y": 64,
+                    "width": 118,
+                    "height": 265
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 270,
+                    "y": 68,
+                    "width": 120,
+                    "height": 268
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes17.jpg": {
+        "filename": "shoes17.jpg",
+        "size": 17210,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 106,
+                    "width": 126,
+                    "height": 328
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 233,
+                    "y": 118,
+                    "width": 126,
+                    "height": 323
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes18.jpg": {
+        "filename": "shoes18.jpg",
+        "size": 34963,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 70,
+                    "width": 150,
+                    "height": 284
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 184,
+                    "y": 73,
+                    "width": 129,
+                    "height": 280
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes23.jpg": {
+        "filename": "shoes23.jpg",
+        "size": 3186,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 26,
+                    "y": 56,
+                    "width": 69,
+                    "height": 147
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 57,
+                    "width": 68,
+                    "height": 145
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes25.jpg": {
+        "filename": "shoes25.jpg",
+        "size": 6781,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 40,
+                    "width": 78,
+                    "height": 181
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 33,
+                    "width": 72,
+                    "height": 181
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes363.jpg": {
+        "filename": "shoes363.jpg",
+        "size": 8101,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 17,
+                    "width": 64,
+                    "height": 192
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 15,
+                    "width": 59,
+                    "height": 198
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes538.jpg": {
+        "filename": "shoes538.jpg",
+        "size": 5946,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 16,
+                    "width": 76,
+                    "height": 214
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 13,
+                    "width": 73,
+                    "height": 211
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes584.jpg": {
+        "filename": "shoes584.jpg",
+        "size": 20120,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 129,
+                    "width": 118,
+                    "height": 264
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 187,
+                    "y": 124,
+                    "width": 122,
+                    "height": 260
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes632.jpg": {
+        "filename": "shoes632.jpg",
+        "size": 6631,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 61,
+                    "width": 85,
+                    "height": 179
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 65,
+                    "width": 81,
+                    "height": 175
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes633.jpg": {
+        "filename": "shoes633.jpg",
+        "size": 4797,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 48,
+                    "width": 80,
+                    "height": 102
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 48,
+                    "width": 85,
+                    "height": 98
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes683.jpg": {
+        "filename": "shoes683.jpg",
+        "size": 15594,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 106,
+                    "width": 122,
+                    "height": 235
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 104,
+                    "width": 122,
+                    "height": 235
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes684.jpg": {
+        "filename": "shoes684.jpg",
+        "size": 15636,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 124,
+                    "width": 124,
+                    "height": 267
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 221,
+                    "y": 102,
+                    "width": 129,
+                    "height": 260
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes691.jpg": {
+        "filename": "shoes691.jpg",
+        "size": 29445,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 75,
+                    "width": 169,
+                    "height": 361
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 222,
+                    "y": 91,
+                    "width": 167,
+                    "height": 359
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes726.jpg": {
+        "filename": "shoes726.jpg",
+        "size": 30785,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 100,
+                    "width": 147,
+                    "height": 371
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 222,
+                    "y": 100,
+                    "width": 154,
+                    "height": 377
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes732.jpg": {
+        "filename": "shoes732.jpg",
+        "size": 25229,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 54,
+                    "width": 155,
+                    "height": 404
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 54,
+                    "width": 145,
+                    "height": 405
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes739.jpg": {
+        "filename": "shoes739.jpg",
+        "size": 27600,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 48,
+                    "width": 166,
+                    "height": 382
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 41,
+                    "width": 145,
+                    "height": 389
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes740.jpg": {
+        "filename": "shoes740.jpg",
+        "size": 15129,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 9,
+                    "width": 90,
+                    "height": 240
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 1,
+                    "width": 83,
+                    "height": 241
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes753.jpg": {
+        "filename": "shoes753.jpg",
+        "size": 23620,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 13,
+                    "y": 79,
+                    "width": 203,
+                    "height": 280
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 206,
+                    "y": 65,
+                    "width": 161,
+                    "height": 289
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes766.jpg": {
+        "filename": "shoes766.jpg",
+        "size": 34165,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 89,
+                    "width": 139,
+                    "height": 334
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 98,
+                    "width": 146,
+                    "height": 338
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes860.jpg": {
+        "filename": "shoes860.jpg",
+        "size": 15893,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 126,
+                    "width": 156,
+                    "height": 294
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 210,
+                    "y": 124,
+                    "width": 156,
+                    "height": 305
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes863.jpg": {
+        "filename": "shoes863.jpg",
+        "size": 13973,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 154,
+                    "width": 102,
+                    "height": 231
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 203,
+                    "y": 140,
+                    "width": 111,
+                    "height": 239
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes864.jpg": {
+        "filename": "shoes864.jpg",
+        "size": 24618,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 124,
+                    "width": 136,
+                    "height": 253
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 118,
+                    "width": 129,
+                    "height": 265
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes904.jpg": {
+        "filename": "shoes904.jpg",
+        "size": 33131,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 52,
+                    "width": 152,
+                    "height": 357
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 48,
+                    "width": 139,
+                    "height": 355
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes915.jpg": {
+        "filename": "shoes915.jpg",
+        "size": 34926,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 168,
+                    "width": 138,
+                    "height": 279
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 179,
+                    "y": 150,
+                    "width": 127,
+                    "height": 275
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes938.jpg": {
+        "filename": "shoes938.jpg",
+        "size": 26203,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 186,
+                    "width": 131,
+                    "height": 321
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 190,
+                    "y": 200,
+                    "width": 129,
+                    "height": 333
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1032.jpg": {
+        "filename": "shoes1032.jpg",
+        "size": 9847,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 40,
+                    "width": 73,
+                    "height": 169
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 41,
+                    "width": 70,
+                    "height": 169
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1097.jpg": {
+        "filename": "shoes1097.jpg",
+        "size": 30872,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 36,
+                    "width": 186,
+                    "height": 363
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 175,
+                    "y": 45,
+                    "width": 150,
+                    "height": 334
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1109.jpg": {
+        "filename": "shoes1109.jpg",
+        "size": 19399,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 165,
+                    "width": 115,
+                    "height": 257
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 210,
+                    "y": 167,
+                    "width": 117,
+                    "height": 251
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1121.jpg": {
+        "filename": "shoes1121.jpg",
+        "size": 17196,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 25,
+                    "width": 150,
+                    "height": 298
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 169,
+                    "y": 30,
+                    "width": 177,
+                    "height": 301
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1123.jpg": {
+        "filename": "shoes1123.jpg",
+        "size": 23342,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 107,
+                    "width": 116,
+                    "height": 293
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 196,
+                    "y": 118,
+                    "width": 114,
+                    "height": 289
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1138.jpg": {
+        "filename": "shoes1138.jpg",
+        "size": 2899,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 12,
+                    "width": 62,
+                    "height": 196
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1160.jpg": {
+        "filename": "shoes1160.jpg",
+        "size": 25498,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 103,
+                    "width": 103,
+                    "height": 277
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 202,
+                    "y": 106,
+                    "width": 108,
+                    "height": 283
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1181.jpg": {
+        "filename": "shoes1181.jpg",
+        "size": 13616,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 135,
+                    "width": 106,
+                    "height": 222
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 212,
+                    "y": 120,
+                    "width": 93,
+                    "height": 221
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1186.jpg": {
+        "filename": "shoes1186.jpg",
+        "size": 4221,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 66,
+                    "width": 236,
+                    "height": 103
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1209.jpg": {
+        "filename": "shoes1209.jpg",
+        "size": 35122,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 105,
+                    "width": 118,
+                    "height": 302
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 208,
+                    "y": 105,
+                    "width": 125,
+                    "height": 310
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1211.jpg": {
+        "filename": "shoes1211.jpg",
+        "size": 17880,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 155,
+                    "width": 121,
+                    "height": 260
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 231,
+                    "y": 141,
+                    "width": 122,
+                    "height": 259
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1231.jpg": {
+        "filename": "shoes1231.jpg",
+        "size": 5504,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 55,
+                    "width": 62,
+                    "height": 160
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 53,
+                    "width": 61,
+                    "height": 160
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1235.jpg": {
+        "filename": "shoes1235.jpg",
+        "size": 15073,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 120,
+                    "width": 117,
+                    "height": 315
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 121,
+                    "width": 129,
+                    "height": 330
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1258.jpg": {
+        "filename": "shoes1258.jpg",
+        "size": 39233,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 81,
+                    "width": 133,
+                    "height": 364
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 192,
+                    "y": 92,
+                    "width": 119,
+                    "height": 367
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1259.jpg": {
+        "filename": "shoes1259.jpg",
+        "size": 22933,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 26,
+                    "y": 103,
+                    "width": 176,
+                    "height": 356
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 198,
+                    "y": 74,
+                    "width": 184,
+                    "height": 355
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1262.jpg": {
+        "filename": "shoes1262.jpg",
+        "size": 19754,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 98,
+                    "width": 119,
+                    "height": 357
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 209,
+                    "y": 84,
+                    "width": 124,
+                    "height": 355
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1272.jpg": {
+        "filename": "shoes1272.jpg",
+        "size": 24768,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 46,
+                    "width": 156,
+                    "height": 459
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 232,
+                    "y": 34,
+                    "width": 152,
+                    "height": 469
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1276.jpg": {
+        "filename": "shoes1276.jpg",
+        "size": 9853,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 12,
+                    "width": 50,
+                    "height": 142
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 15,
+                    "width": 51,
+                    "height": 143
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1279.jpg": {
+        "filename": "shoes1279.jpg",
+        "size": 19797,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 115,
+                    "width": 150,
+                    "height": 334
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 229,
+                    "y": 102,
+                    "width": 159,
+                    "height": 337
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1341.jpg": {
+        "filename": "shoes1341.jpg",
+        "size": 15186,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 87,
+                    "width": 137,
+                    "height": 231
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151,
+                    "y": 70,
+                    "width": 180,
+                    "height": 235
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1346.jpg": {
+        "filename": "shoes1346.jpg",
+        "size": 18310,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 135,
+                    "width": 133,
+                    "height": 243
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 215,
+                    "y": 138,
+                    "width": 147,
+                    "height": 246
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1354.jpg": {
+        "filename": "shoes1354.jpg",
+        "size": 28828,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 118,
+                    "width": 142,
+                    "height": 307
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 218,
+                    "y": 132,
+                    "width": 145,
+                    "height": 317
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1359.jpg": {
+        "filename": "shoes1359.jpg",
+        "size": 21561,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 31,
+                    "width": 157,
+                    "height": 463
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211,
+                    "y": 36,
+                    "width": 167,
+                    "height": 480
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1360.jpg": {
+        "filename": "shoes1360.jpg",
+        "size": 6353,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 54,
+                    "width": 225,
+                    "height": 102
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 44,
+                    "width": 190,
+                    "height": 72
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1362.jpg": {
+        "filename": "shoes1362.jpg",
+        "size": 5650,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 11,
+                    "width": 72,
+                    "height": 239
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 10,
+                    "width": 70,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1392.jpg": {
+        "filename": "shoes1392.jpg",
+        "size": 21333,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 133,
+                    "width": 142,
+                    "height": 289
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 232,
+                    "y": 119,
+                    "width": 143,
+                    "height": 285
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1398.jpg": {
+        "filename": "shoes1398.jpg",
+        "size": 33183,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 29,
+                    "width": 124,
+                    "height": 351
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 194,
+                    "y": 16,
+                    "width": 112,
+                    "height": 353
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1399.jpg": {
+        "filename": "shoes1399.jpg",
+        "size": 15776,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 109,
+                    "width": 159,
+                    "height": 369
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 226,
+                    "y": 114,
+                    "width": 159,
+                    "height": 371
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1421.jpg": {
+        "filename": "shoes1421.jpg",
+        "size": 6686,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 7,
+                    "width": 295,
+                    "height": 129
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1423.jpg": {
+        "filename": "shoes1423.jpg",
+        "size": 4867,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 85,
+                    "width": 171,
+                    "height": 83
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1440.jpg": {
+        "filename": "shoes1440.jpg",
+        "size": 22428,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 140,
+                    "width": 146,
+                    "height": 309
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 229,
+                    "y": 136,
+                    "width": 150,
+                    "height": 313
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1450.jpg": {
+        "filename": "shoes1450.jpg",
+        "size": 19113,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 67,
+                    "width": 155,
+                    "height": 386
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 54,
+                    "width": 168,
+                    "height": 401
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1487.jpg": {
+        "filename": "shoes1487.jpg",
+        "size": 7804,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 4,
+                    "width": 288,
+                    "height": 167
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1488.jpg": {
+        "filename": "shoes1488.jpg",
+        "size": 7998,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 3,
+                    "width": 313,
+                    "height": 149
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1496.jpg": {
+        "filename": "shoes1496.jpg",
+        "size": 7223,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 41,
+                    "width": 80,
+                    "height": 171
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 40,
+                    "width": 87,
+                    "height": 179
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1504.jpg": {
+        "filename": "shoes1504.jpg",
+        "size": 20414,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 131,
+                    "width": 155,
+                    "height": 283
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 118,
+                    "width": 157,
+                    "height": 281
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1506.jpg": {
+        "filename": "shoes1506.jpg",
+        "size": 7645,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 13,
+                    "width": 167,
+                    "height": 84
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 28,
+                    "width": 192,
+                    "height": 117
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1509.jpg": {
+        "filename": "shoes1509.jpg",
+        "size": 6747,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 78,
+                    "width": 98,
+                    "height": 76
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 97,
+                    "width": 116,
+                    "height": 89
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1539.jpg": {
+        "filename": "shoes1539.jpg",
+        "size": 21535,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 91,
+                    "width": 148,
+                    "height": 320
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 203,
+                    "y": 75,
+                    "width": 157,
+                    "height": 322
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1551.jpg": {
+        "filename": "shoes1551.jpg",
+        "size": 20922,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 112,
+                    "width": 162,
+                    "height": 327
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 201,
+                    "y": 110,
+                    "width": 182,
+                    "height": 335
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1563.jpg": {
+        "filename": "shoes1563.jpg",
+        "size": 4116,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 69,
+                    "width": 200,
+                    "height": 94
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1564.jpg": {
+        "filename": "shoes1564.jpg",
+        "size": 7245,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 45,
+                    "width": 66,
+                    "height": 175
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 44,
+                    "width": 68,
+                    "height": 172
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1581.jpg": {
+        "filename": "shoes1581.jpg",
+        "size": 20597,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 119,
+                    "width": 115,
+                    "height": 246
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 211,
+                    "y": 132,
+                    "width": 112,
+                    "height": 253
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1582.jpg": {
+        "filename": "shoes1582.jpg",
+        "size": 21506,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 159,
+                    "width": 116,
+                    "height": 274
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 186,
+                    "y": 166,
+                    "width": 112,
+                    "height": 271
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1597.jpg": {
+        "filename": "shoes1597.jpg",
+        "size": 5612,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 46,
+                    "width": 140,
+                    "height": 82
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 88,
+                    "width": 188,
+                    "height": 101
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1601.jpg": {
+        "filename": "shoes1601.jpg",
+        "size": 3705,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 52,
+                    "width": 214,
+                    "height": 132
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1605.jpg": {
+        "filename": "shoes1605.jpg",
+        "size": 10406,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 40,
+                    "y": 10,
+                    "width": 90,
+                    "height": 161
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 11,
+                    "width": 84,
+                    "height": 157
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1625.jpg": {
+        "filename": "shoes1625.jpg",
+        "size": 49816,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 69,
+                    "width": 161,
+                    "height": 340
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 242,
+                    "y": 100,
+                    "width": 138,
+                    "height": 332
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1668.jpg": {
+        "filename": "shoes1668.jpg",
+        "size": 14036,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 75,
+                    "width": 146,
+                    "height": 396
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 231,
+                    "y": 75,
+                    "width": 151,
+                    "height": 413
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1672.jpg": {
+        "filename": "shoes1672.jpg",
+        "size": 32473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 48,
+                    "width": 136,
+                    "height": 356
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 53,
+                    "width": 128,
+                    "height": 365
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1673.jpg": {
+        "filename": "shoes1673.jpg",
+        "size": 22251,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 112,
+                    "width": 140,
+                    "height": 279
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 220,
+                    "y": 108,
+                    "width": 149,
+                    "height": 298
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1752.jpg": {
+        "filename": "shoes1752.jpg",
+        "size": 39219,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 81,
+                    "width": 154,
+                    "height": 400
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 185,
+                    "y": 70,
+                    "width": 156,
+                    "height": 400
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1774.jpg": {
+        "filename": "shoes1774.jpg",
+        "size": 38282,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 102,
+                    "width": 140,
+                    "height": 293
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 119,
+                    "width": 121,
+                    "height": 286
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1845.jpg": {
+        "filename": "shoes1845.jpg",
+        "size": 18217,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 126,
+                    "width": 119,
+                    "height": 258
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 124,
+                    "width": 124,
+                    "height": 255
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1846.jpg": {
+        "filename": "shoes1846.jpg",
+        "size": 18205,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 149,
+                    "width": 126,
+                    "height": 298
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 233,
+                    "y": 93,
+                    "width": 132,
+                    "height": 285
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1864.jpg": {
+        "filename": "shoes1864.jpg",
+        "size": 24139,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 27,
+                    "width": 156,
+                    "height": 421
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 225,
+                    "y": 53,
+                    "width": 163,
+                    "height": 401
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1882.jpg": {
+        "filename": "shoes1882.jpg",
+        "size": 30372,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 60,
+                    "width": 166,
+                    "height": 314
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 189,
+                    "y": 73,
+                    "width": 167,
+                    "height": 320
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1883.jpg": {
+        "filename": "shoes1883.jpg",
+        "size": 14228,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 170,
+                    "width": 98,
+                    "height": 223
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 202,
+                    "y": 163,
+                    "width": 140,
+                    "height": 225
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1884.jpg": {
+        "filename": "shoes1884.jpg",
+        "size": 30123,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 93,
+                    "width": 173,
+                    "height": 323
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 185,
+                    "y": 93,
+                    "width": 164,
+                    "height": 323
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1891.jpg": {
+        "filename": "shoes1891.jpg",
+        "size": 23111,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 126,
+                    "width": 136,
+                    "height": 269
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 219,
+                    "y": 112,
+                    "width": 143,
+                    "height": 275
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1900.jpg": {
+        "filename": "shoes1900.jpg",
+        "size": 17850,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 109,
+                    "width": 152,
+                    "height": 314
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 222,
+                    "y": 101,
+                    "width": 150,
+                    "height": 331
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1903.jpg": {
+        "filename": "shoes1903.jpg",
+        "size": 32737,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 87,
+                    "width": 157,
+                    "height": 337
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 100,
+                    "width": 152,
+                    "height": 328
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1933.jpg": {
+        "filename": "shoes1933.jpg",
+        "size": 16045,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 109,
+                    "width": 116,
+                    "height": 309
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 205,
+                    "y": 112,
+                    "width": 124,
+                    "height": 316
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1935.jpg": {
+        "filename": "shoes1935.jpg",
+        "size": 20869,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 13,
+                    "y": 59,
+                    "width": 161,
+                    "height": 441
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 204,
+                    "y": 48,
+                    "width": 156,
+                    "height": 438
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1940.jpg": {
+        "filename": "shoes1940.jpg",
+        "size": 20208,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 49,
+                    "width": 136,
+                    "height": 305
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 218,
+                    "y": 49,
+                    "width": 152,
+                    "height": 309
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1944.jpg": {
+        "filename": "shoes1944.jpg",
+        "size": 13348,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 133,
+                    "width": 109,
+                    "height": 268
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 223,
+                    "y": 128,
+                    "width": 132,
+                    "height": 257
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1945.jpg": {
+        "filename": "shoes1945.jpg",
+        "size": 22054,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 107,
+                    "width": 164,
+                    "height": 376
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 227,
+                    "y": 93,
+                    "width": 161,
+                    "height": 342
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "shoes1947.jpg": {
+        "filename": "shoes1947.jpg",
+        "size": 23170,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 72,
+                    "width": 174,
+                    "height": 372
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 201,
+                    "y": 59,
+                    "width": 189,
+                    "height": 383
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}

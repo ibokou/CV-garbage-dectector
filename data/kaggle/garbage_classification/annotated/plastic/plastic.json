@@ -1,0 +1,1832 @@
+{
+    "plastic1.jpg": {
+        "filename": "plastic1.jpg",
+        "size": 5598,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 16,
+                    "width": 71,
+                    "height": 234
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic9.jpg": {
+        "filename": "plastic9.jpg",
+        "size": 21245,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 58,
+                    "width": 446,
+                    "height": 296
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic11.jpg": {
+        "filename": "plastic11.jpg",
+        "size": 16493,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 7,
+                    "width": 317,
+                    "height": 315
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic15.jpg": {
+        "filename": "plastic15.jpg",
+        "size": 17647,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 40,
+                    "y": 110,
+                    "width": 359,
+                    "height": 180
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic18.jpg": {
+        "filename": "plastic18.jpg",
+        "size": 11901,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 8,
+                    "width": 164,
+                    "height": 243
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic26.jpg": {
+        "filename": "plastic26.jpg",
+        "size": 9917,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 104,
+                    "width": 403,
+                    "height": 223
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic28.jpg": {
+        "filename": "plastic28.jpg",
+        "size": 12480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 1,
+                    "width": 332,
+                    "height": 254
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic33.jpg": {
+        "filename": "plastic33.jpg",
+        "size": 23373,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 92,
+                    "width": 475,
+                    "height": 216
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic41.jpg": {
+        "filename": "plastic41.jpg",
+        "size": 8904,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 18,
+                    "width": 43,
+                    "height": 140
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 17,
+                    "width": 43,
+                    "height": 142
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 17,
+                    "width": 44,
+                    "height": 140
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 176,
+                    "y": 17,
+                    "width": 42,
+                    "height": 138
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 222,
+                    "y": 19,
+                    "width": 34,
+                    "height": 135
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic42.jpg": {
+        "filename": "plastic42.jpg",
+        "size": 19717,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 12,
+                    "width": 388,
+                    "height": 357
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic49.jpg": {
+        "filename": "plastic49.jpg",
+        "size": 16507,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 65,
+                    "width": 480,
+                    "height": 159
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic75.jpg": {
+        "filename": "plastic75.jpg",
+        "size": 14028,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 141,
+                    "y": 43,
+                    "width": 253,
+                    "height": 253
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic88.jpg": {
+        "filename": "plastic88.jpg",
+        "size": 17316,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 77,
+                    "width": 464,
+                    "height": 247
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic99.jpg": {
+        "filename": "plastic99.jpg",
+        "size": 13364,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 146,
+                    "y": 1,
+                    "width": 215,
+                    "height": 382
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic108.jpg": {
+        "filename": "plastic108.jpg",
+        "size": 15738,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 128,
+                    "width": 486,
+                    "height": 173
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic110.jpg": {
+        "filename": "plastic110.jpg",
+        "size": 13489,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 68,
+                    "width": 415,
+                    "height": 157
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic117.jpg": {
+        "filename": "plastic117.jpg",
+        "size": 7884,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 105,
+                    "width": 433,
+                    "height": 174
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic138.jpg": {
+        "filename": "plastic138.jpg",
+        "size": 9715,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 30,
+                    "width": 288,
+                    "height": 287
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic146.jpg": {
+        "filename": "plastic146.jpg",
+        "size": 16445,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 132,
+                    "width": 482,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic147.jpg": {
+        "filename": "plastic147.jpg",
+        "size": 15921,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 145,
+                    "y": 44,
+                    "width": 269,
+                    "height": 270
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic150.jpg": {
+        "filename": "plastic150.jpg",
+        "size": 16753,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 50,
+                    "width": 389,
+                    "height": 265
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic152.jpg": {
+        "filename": "plastic152.jpg",
+        "size": 3035,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 71,
+                    "width": 240,
+                    "height": 72
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic154.jpg": {
+        "filename": "plastic154.jpg",
+        "size": 16106,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 1,
+                    "width": 362,
+                    "height": 347
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic155.jpg": {
+        "filename": "plastic155.jpg",
+        "size": 9689,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 69,
+                    "width": 281,
+                    "height": 283
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic160.jpg": {
+        "filename": "plastic160.jpg",
+        "size": 21302,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 1,
+                    "width": 355,
+                    "height": 348
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic167.jpg": {
+        "filename": "plastic167.jpg",
+        "size": 23377,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 33,
+                    "width": 408,
+                    "height": 351
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic169.jpg": {
+        "filename": "plastic169.jpg",
+        "size": 12433,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 4,
+                    "width": 171,
+                    "height": 252
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic186.jpg": {
+        "filename": "plastic186.jpg",
+        "size": 9052,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 108,
+                    "width": 289,
+                    "height": 115
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic188.jpg": {
+        "filename": "plastic188.jpg",
+        "size": 10883,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 102,
+                    "width": 34,
+                    "height": 121
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic193.jpg": {
+        "filename": "plastic193.jpg",
+        "size": 12366,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 130,
+                    "width": 341,
+                    "height": 141
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic208.jpg": {
+        "filename": "plastic208.jpg",
+        "size": 14801,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 119,
+                    "width": 387,
+                    "height": 150
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic212.jpg": {
+        "filename": "plastic212.jpg",
+        "size": 13716,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 130,
+                    "width": 479,
+                    "height": 145
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic214.jpg": {
+        "filename": "plastic214.jpg",
+        "size": 14595,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 104,
+                    "width": 372,
+                    "height": 130
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic217.jpg": {
+        "filename": "plastic217.jpg",
+        "size": 14975,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119,
+                    "y": 21,
+                    "width": 264,
+                    "height": 269
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic218.jpg": {
+        "filename": "plastic218.jpg",
+        "size": 10891,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 253,
+                    "y": 19,
+                    "width": 149,
+                    "height": 355
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic219.jpg": {
+        "filename": "plastic219.jpg",
+        "size": 12027,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 90,
+                    "width": 365,
+                    "height": 157
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic221.jpg": {
+        "filename": "plastic221.jpg",
+        "size": 17620,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 100,
+                    "width": 316,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic222.jpg": {
+        "filename": "plastic222.jpg",
+        "size": 12609,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 101,
+                    "width": 385,
+                    "height": 149
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic224.jpg": {
+        "filename": "plastic224.jpg",
+        "size": 13161,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112,
+                    "y": 87,
+                    "width": 262,
+                    "height": 257
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic225.jpg": {
+        "filename": "plastic225.jpg",
+        "size": 12722,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 54,
+                    "width": 472,
+                    "height": 194
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic226.jpg": {
+        "filename": "plastic226.jpg",
+        "size": 5055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 5,
+                    "width": 65,
+                    "height": 239
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic227.jpg": {
+        "filename": "plastic227.jpg",
+        "size": 12225,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112,
+                    "y": 130,
+                    "width": 340,
+                    "height": 133
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic229.jpg": {
+        "filename": "plastic229.jpg",
+        "size": 10205,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 148,
+                    "y": 65,
+                    "width": 228,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic238.jpg": {
+        "filename": "plastic238.jpg",
+        "size": 9713,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 108,
+                    "width": 323,
+                    "height": 177
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic240.jpg": {
+        "filename": "plastic240.jpg",
+        "size": 12951,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 144,
+                    "width": 399,
+                    "height": 141
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic245.jpg": {
+        "filename": "plastic245.jpg",
+        "size": 14976,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 103,
+                    "width": 300,
+                    "height": 175
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic248.jpg": {
+        "filename": "plastic248.jpg",
+        "size": 11305,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 74,
+                    "width": 209,
+                    "height": 208
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic250.jpg": {
+        "filename": "plastic250.jpg",
+        "size": 7727,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 171,
+                    "y": 130,
+                    "width": 140,
+                    "height": 128
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic252.jpg": {
+        "filename": "plastic252.jpg",
+        "size": 19425,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 101,
+                    "width": 392,
+                    "height": 281
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic265.jpg": {
+        "filename": "plastic265.jpg",
+        "size": 13879,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 130,
+                    "width": 363,
+                    "height": 138
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic284.jpg": {
+        "filename": "plastic284.jpg",
+        "size": 15547,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 117,
+                    "width": 346,
+                    "height": 162
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic292.jpg": {
+        "filename": "plastic292.jpg",
+        "size": 12843,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 148,
+                    "y": 104,
+                    "width": 205,
+                    "height": 208
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic299.jpg": {
+        "filename": "plastic299.jpg",
+        "size": 22379,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 4,
+                    "width": 408,
+                    "height": 380
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic300.jpg": {
+        "filename": "plastic300.jpg",
+        "size": 11215,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 143,
+                    "y": 121,
+                    "width": 301,
+                    "height": 166
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic320.jpg": {
+        "filename": "plastic320.jpg",
+        "size": 14088,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 90,
+                    "width": 332,
+                    "height": 142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic327.jpg": {
+        "filename": "plastic327.jpg",
+        "size": 13458,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 157,
+                    "y": 161,
+                    "width": 279,
+                    "height": 134
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 131,
+                    "width": 298,
+                    "height": 157
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic339.jpg": {
+        "filename": "plastic339.jpg",
+        "size": 18887,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 50,
+                    "width": 243,
+                    "height": 317
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic345.jpg": {
+        "filename": "plastic345.jpg",
+        "size": 22897,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 104,
+                    "y": 17,
+                    "width": 348,
+                    "height": 367
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic347.jpg": {
+        "filename": "plastic347.jpg",
+        "size": 21825,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 150,
+                    "y": 1,
+                    "width": 256,
+                    "height": 295
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic349.jpg": {
+        "filename": "plastic349.jpg",
+        "size": 17327,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 0,
+                    "y": 109,
+                    "width": 499,
+                    "height": 195
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic364.jpg": {
+        "filename": "plastic364.jpg",
+        "size": 7855,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 207,
+                    "y": 89,
+                    "width": 68,
+                    "height": 209
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic365.jpg": {
+        "filename": "plastic365.jpg",
+        "size": 17907,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 89,
+                    "width": 294,
+                    "height": 194
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic366.jpg": {
+        "filename": "plastic366.jpg",
+        "size": 17055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 142,
+                    "y": 36,
+                    "width": 229,
+                    "height": 299
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic374.jpg": {
+        "filename": "plastic374.jpg",
+        "size": 12683,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 107,
+                    "width": 434,
+                    "height": 167
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic376.jpg": {
+        "filename": "plastic376.jpg",
+        "size": 8646,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 172,
+                    "y": 56,
+                    "width": 120,
+                    "height": 244
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic384.jpg": {
+        "filename": "plastic384.jpg",
+        "size": 18198,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 21,
+                    "width": 320,
+                    "height": 311
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic393.jpg": {
+        "filename": "plastic393.jpg",
+        "size": 11584,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 155,
+                    "width": 374,
+                    "height": 127
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic398.jpg": {
+        "filename": "plastic398.jpg",
+        "size": 7747,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 145,
+                    "width": 171,
+                    "height": 85
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic401.jpg": {
+        "filename": "plastic401.jpg",
+        "size": 7788,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 62,
+                    "width": 53,
+                    "height": 161
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 61,
+                    "width": 49,
+                    "height": 156
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 0,
+                    "width": 70,
+                    "height": 207
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 61,
+                    "width": 48,
+                    "height": 155
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic412.jpg": {
+        "filename": "plastic412.jpg",
+        "size": 7857,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 171,
+                    "y": 165,
+                    "width": 121,
+                    "height": 118
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic428.jpg": {
+        "filename": "plastic428.jpg",
+        "size": 14394,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 216,
+                    "y": 35,
+                    "width": 268,
+                    "height": 272
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic429.jpg": {
+        "filename": "plastic429.jpg",
+        "size": 11122,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 8,
+                    "width": 166,
+                    "height": 268
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic438.jpg": {
+        "filename": "plastic438.jpg",
+        "size": 16473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 151,
+                    "y": 50,
+                    "width": 260,
+                    "height": 266
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic446.jpg": {
+        "filename": "plastic446.jpg",
+        "size": 10993,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 168,
+                    "y": 25,
+                    "width": 111,
+                    "height": 278
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic447.jpg": {
+        "filename": "plastic447.jpg",
+        "size": 16649,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119,
+                    "y": 79,
+                    "width": 335,
+                    "height": 201
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic568.jpg": {
+        "filename": "plastic568.jpg",
+        "size": 14874,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 49,
+                    "width": 410,
+                    "height": 244
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic576.jpg": {
+        "filename": "plastic576.jpg",
+        "size": 5981,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 31,
+                    "width": 58,
+                    "height": 176
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 29,
+                    "width": 60,
+                    "height": 179
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic587.jpg": {
+        "filename": "plastic587.jpg",
+        "size": 7752,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 27,
+                    "width": 52,
+                    "height": 174
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 26,
+                    "width": 55,
+                    "height": 174
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic588.jpg": {
+        "filename": "plastic588.jpg",
+        "size": 3171,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 40,
+                    "width": 117,
+                    "height": 147
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic635.jpg": {
+        "filename": "plastic635.jpg",
+        "size": 3724,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 7,
+                    "width": 103,
+                    "height": 191
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic669.jpg": {
+        "filename": "plastic669.jpg",
+        "size": 11925,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 43,
+                    "width": 78,
+                    "height": 172
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 11,
+                    "width": 85,
+                    "height": 192
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic679.jpg": {
+        "filename": "plastic679.jpg",
+        "size": 17366,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 25,
+                    "width": 299,
+                    "height": 327
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic681.jpg": {
+        "filename": "plastic681.jpg",
+        "size": 5534,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 13,
+                    "width": 71,
+                    "height": 198
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 39,
+                    "width": 70,
+                    "height": 167
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic698.jpg": {
+        "filename": "plastic698.jpg",
+        "size": 3198,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 8,
+                    "width": 57,
+                    "height": 174
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic701.jpg": {
+        "filename": "plastic701.jpg",
+        "size": 23379,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 4,
+                    "width": 381,
+                    "height": 369
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic703.jpg": {
+        "filename": "plastic703.jpg",
+        "size": 6589,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 19,
+                    "width": 191,
+                    "height": 217
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic709.jpg": {
+        "filename": "plastic709.jpg",
+        "size": 3273,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 5,
+                    "width": 90,
+                    "height": 220
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic710.jpg": {
+        "filename": "plastic710.jpg",
+        "size": 2599,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 11,
+                    "width": 67,
+                    "height": 207
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic711.jpg": {
+        "filename": "plastic711.jpg",
+        "size": 3486,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 20,
+                    "width": 55,
+                    "height": 185
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic722.jpg": {
+        "filename": "plastic722.jpg",
+        "size": 2715,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 93,
+                    "y": 54,
+                    "width": 46,
+                    "height": 145
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic729.jpg": {
+        "filename": "plastic729.jpg",
+        "size": 4189,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 29,
+                    "width": 59,
+                    "height": 189
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic736.jpg": {
+        "filename": "plastic736.jpg",
+        "size": 3041,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 9,
+                    "width": 75,
+                    "height": 209
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic765.jpg": {
+        "filename": "plastic765.jpg",
+        "size": 16808,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 110,
+                    "width": 436,
+                    "height": 183
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic768.jpg": {
+        "filename": "plastic768.jpg",
+        "size": 9313,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 100,
+                    "width": 170,
+                    "height": 209
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic776.jpg": {
+        "filename": "plastic776.jpg",
+        "size": 10283,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 4,
+                    "width": 381,
+                    "height": 347
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic799.jpg": {
+        "filename": "plastic799.jpg",
+        "size": 5926,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 37,
+                    "width": 53,
+                    "height": 158
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 35,
+                    "width": 54,
+                    "height": 162
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic808.jpg": {
+        "filename": "plastic808.jpg",
+        "size": 2894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 25,
+                    "width": 104,
+                    "height": 184
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic852.jpg": {
+        "filename": "plastic852.jpg",
+        "size": 13706,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 4,
+                    "width": 408,
+                    "height": 371
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic854.jpg": {
+        "filename": "plastic854.jpg",
+        "size": 16659,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112,
+                    "y": 25,
+                    "width": 252,
+                    "height": 299
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "plastic864.jpg": {
+        "filename": "plastic864.jpg",
+        "size": 15137,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 78,
+                    "width": 396,
+                    "height": 250
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}

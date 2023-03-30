@@ -1,0 +1,13 @@
+model,dataset,accuracy
+cnn_mobilenet,small,85.04
+cnn_mobilenet,medium,88.31
+cnn_mobilenet,large,89.45
+cnn_resnet50,small,86.61
+cnn_resnet50,medium,90.09
+cnn_resnet50,large,91.65
+cnn_googlenet,small,84.09
+cnn_googlenet,medium,88.22
+cnn_googlenet,large,89.23
+cnn_efficientnet,small,86.93
+cnn_efficientnet,medium,90.07
+cnn_efficientnet,large,91.2

@@ -1,0 +1,13 @@
+model,dataset,map,map_50,map_75,mar_100
+fasterrcnn_resnet50,small,48.0,61.4,57.6,74.0
+fasterrcnn_resnet50,medium,65.6,79.7,75.2,83.1
+fasterrcnn_resnet50,large,84.4,95.1,93.3,90.9
+fasterrcnn_mobilenet,small,54.4,69.1,64.3,71.8
+fasterrcnn_mobilenet,medium,79.5,92.9,89.0,85.2
+fasterrcnn_mobilenet,large,89.6,98.4,97.0,92.4
+fasterrcnn_custom_resnet50,small,0.0,0.0,0.0,0.4
+fasterrcnn_custom_resnet50,medium,0.6,3.2,0.0,4.5
+fasterrcnn_custom_resnet50,large,1.4,6.4,0.2,6.7
+fasterrcnn_custom_mobilenet,small,6.6,15.9,3.7,15.7
+fasterrcnn_custom_mobilenet,medium,21.2,45.8,14.7,38.1
+fasterrcnn_custom_mobilenet,large,31.5,61.0,29.0,48.6

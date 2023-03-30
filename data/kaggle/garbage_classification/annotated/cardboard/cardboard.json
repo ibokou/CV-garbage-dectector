@@ -1,0 +1,2552 @@
+{
+    "cardboard5.jpg": {
+        "filename": "cardboard5.jpg",
+        "size": 28797,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 21,
+                    "width": 434,
+                    "height": 354
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard6.jpg": {
+        "filename": "cardboard6.jpg",
+        "size": 24826,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 0,
+                    "width": 483,
+                    "height": 381
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard8.jpg": {
+        "filename": "cardboard8.jpg",
+        "size": 18642,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 26,
+                    "width": 489,
+                    "height": 296
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard9.jpg": {
+        "filename": "cardboard9.jpg",
+        "size": 15248,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 39,
+                    "width": 497,
+                    "height": 289
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard10.jpg": {
+        "filename": "cardboard10.jpg",
+        "size": 21821,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 58,
+                    "y": 3,
+                    "width": 373,
+                    "height": 378
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard15.jpg": {
+        "filename": "cardboard15.jpg",
+        "size": 13619,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 34,
+                    "width": 453,
+                    "height": 286
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard18.jpg": {
+        "filename": "cardboard18.jpg",
+        "size": 16548,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 47,
+                    "width": 495,
+                    "height": 334
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard21.jpg": {
+        "filename": "cardboard21.jpg",
+        "size": 18009,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 33,
+                    "width": 321,
+                    "height": 351
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard27.jpg": {
+        "filename": "cardboard27.jpg",
+        "size": 11528,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 44,
+                    "width": 501,
+                    "height": 268
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard31.jpg": {
+        "filename": "cardboard31.jpg",
+        "size": 14698,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 63,
+                    "width": 489,
+                    "height": 293
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard32.jpg": {
+        "filename": "cardboard32.jpg",
+        "size": 15607,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 7,
+                    "width": 321,
+                    "height": 372
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard33.jpg": {
+        "filename": "cardboard33.jpg",
+        "size": 12336,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 30,
+                    "width": 365,
+                    "height": 352
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard34.jpg": {
+        "filename": "cardboard34.jpg",
+        "size": 12108,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 0,
+                    "width": 220,
+                    "height": 381
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard36.jpg": {
+        "filename": "cardboard36.jpg",
+        "size": 11948,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 33,
+                    "width": 345,
+                    "height": 317
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard37.jpg": {
+        "filename": "cardboard37.jpg",
+        "size": 8417,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 94,
+                    "width": 200,
+                    "height": 195
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard38.jpg": {
+        "filename": "cardboard38.jpg",
+        "size": 9654,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 116,
+                    "y": 100,
+                    "width": 223,
+                    "height": 211
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard39.jpg": {
+        "filename": "cardboard39.jpg",
+        "size": 10616,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 80,
+                    "width": 193,
+                    "height": 242
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard40.jpg": {
+        "filename": "cardboard40.jpg",
+        "size": 16442,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 3,
+                    "width": 323,
+                    "height": 374
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard42.jpg": {
+        "filename": "cardboard42.jpg",
+        "size": 11196,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 69,
+                    "width": 260,
+                    "height": 299
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard63.jpg": {
+        "filename": "cardboard63.jpg",
+        "size": 11824,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 45,
+                    "width": 384,
+                    "height": 292
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard68.jpg": {
+        "filename": "cardboard68.jpg",
+        "size": 19018,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 153,
+                    "width": 484,
+                    "height": 230
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard113.jpg": {
+        "filename": "cardboard113.jpg",
+        "size": 15247,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 6,
+                    "width": 475,
+                    "height": 292
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard244.jpg": {
+        "filename": "cardboard244.jpg",
+        "size": 20405,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 62,
+                    "y": 47,
+                    "width": 391,
+                    "height": 295
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard290.jpg": {
+        "filename": "cardboard290.jpg",
+        "size": 16636,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 40,
+                    "y": 37,
+                    "width": 425,
+                    "height": 303
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard312.jpg": {
+        "filename": "cardboard312.jpg",
+        "size": 10534,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 66,
+                    "width": 297,
+                    "height": 242
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard323.jpg": {
+        "filename": "cardboard323.jpg",
+        "size": 8940,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 77,
+                    "width": 264,
+                    "height": 253
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard335.jpg": {
+        "filename": "cardboard335.jpg",
+        "size": 9825,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 48,
+                    "width": 246,
+                    "height": 289
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard348.jpg": {
+        "filename": "cardboard348.jpg",
+        "size": 4933,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 85,
+                    "width": 22,
+                    "height": 139
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 76,
+                    "width": 24,
+                    "height": 140
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 113,
+                    "width": 21,
+                    "height": 101
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 102,
+                    "width": 19,
+                    "height": 98
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 66,
+                    "width": 27,
+                    "height": 133
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 12,
+                    "width": 42,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 125,
+                    "y": 53,
+                    "width": 18,
+                    "height": 132
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 138,
+                    "y": 94,
+                    "width": 21,
+                    "height": 95
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 54,
+                    "width": 18,
+                    "height": 134
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 170,
+                    "y": 52,
+                    "width": 21,
+                    "height": 128
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 6,
+                    "width": 33,
+                    "height": 96
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 2,
+                    "width": 38,
+                    "height": 81
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard349.jpg": {
+        "filename": "cardboard349.jpg",
+        "size": 6704,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 3,
+                    "width": 267,
+                    "height": 143
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard356.jpg": {
+        "filename": "cardboard356.jpg",
+        "size": 7797,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 136,
+                    "y": 70,
+                    "width": 178,
+                    "height": 197
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard357.jpg": {
+        "filename": "cardboard357.jpg",
+        "size": 4053,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 103,
+                    "width": 85,
+                    "height": 85
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 59,
+                    "width": 77,
+                    "height": 61
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 24,
+                    "width": 95,
+                    "height": 80
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 150,
+                    "y": 28,
+                    "width": 72,
+                    "height": 129
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 86,
+                    "width": 88,
+                    "height": 104
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard361.jpg": {
+        "filename": "cardboard361.jpg",
+        "size": 3557,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 0,
+                    "width": 273,
+                    "height": 182
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard367.jpg": {
+        "filename": "cardboard367.jpg",
+        "size": 7724,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 140,
+                    "y": 109,
+                    "width": 200,
+                    "height": 136
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard385.jpg": {
+        "filename": "cardboard385.jpg",
+        "size": 9634,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 44,
+                    "width": 180,
+                    "height": 198
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard391.jpg": {
+        "filename": "cardboard391.jpg",
+        "size": 3497,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 103,
+                    "width": 38,
+                    "height": 47
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 150,
+                    "y": 60,
+                    "width": 64,
+                    "height": 48
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 104,
+                    "width": 75,
+                    "height": 54
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 150,
+                    "y": 102,
+                    "width": 58,
+                    "height": 49
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard393.jpg": {
+        "filename": "cardboard393.jpg",
+        "size": 3638,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 12,
+                    "width": 217,
+                    "height": 168
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard400.jpg": {
+        "filename": "cardboard400.jpg",
+        "size": 3686,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 10,
+                    "width": 113,
+                    "height": 248
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard408.jpg": {
+        "filename": "cardboard408.jpg",
+        "size": 2282,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 0,
+                    "width": 287,
+                    "height": 173
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard409.jpg": {
+        "filename": "cardboard409.jpg",
+        "size": 17270,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 0,
+                    "width": 423,
+                    "height": 285
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard430.jpg": {
+        "filename": "cardboard430.jpg",
+        "size": 2448,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 12,
+                    "width": 124,
+                    "height": 203
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard431.jpg": {
+        "filename": "cardboard431.jpg",
+        "size": 11308,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 74,
+                    "width": 297,
+                    "height": 223
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard440.jpg": {
+        "filename": "cardboard440.jpg",
+        "size": 3963,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 11,
+                    "y": 123,
+                    "width": 87,
+                    "height": 70
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 128,
+                    "width": 84,
+                    "height": 60
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 79,
+                    "width": 85,
+                    "height": 60
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 6,
+                    "width": 109,
+                    "height": 82
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 78,
+                    "width": 86,
+                    "height": 54
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 124,
+                    "width": 86,
+                    "height": 60
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 160,
+                    "y": 80,
+                    "width": 45,
+                    "height": 50
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard442.jpg": {
+        "filename": "cardboard442.jpg",
+        "size": 16037,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 33,
+                    "width": 275,
+                    "height": 308
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard445.jpg": {
+        "filename": "cardboard445.jpg",
+        "size": 5618,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 16,
+                    "width": 130,
+                    "height": 66
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 30,
+                    "width": 153,
+                    "height": 105
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 42,
+                    "width": 157,
+                    "height": 163
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard452.jpg": {
+        "filename": "cardboard452.jpg",
+        "size": 13601,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 107,
+                    "width": 299,
+                    "height": 246
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard463.jpg": {
+        "filename": "cardboard463.jpg",
+        "size": 12305,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 125,
+                    "y": 36,
+                    "width": 244,
+                    "height": 325
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard466.jpg": {
+        "filename": "cardboard466.jpg",
+        "size": 4296,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 81,
+                    "width": 104,
+                    "height": 61
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 18,
+                    "width": 67,
+                    "height": 64
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 176,
+                    "y": 2,
+                    "width": 57,
+                    "height": 62
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 171,
+                    "y": 58,
+                    "width": 103,
+                    "height": 81
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 163,
+                    "y": 97,
+                    "width": 46,
+                    "height": 19
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 113,
+                    "width": 51,
+                    "height": 16
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 165,
+                    "y": 123,
+                    "width": 42,
+                    "height": 19
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard471.jpg": {
+        "filename": "cardboard471.jpg",
+        "size": 5247,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 112,
+                    "y": 87,
+                    "width": 148,
+                    "height": 76
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 158,
+                    "y": 42,
+                    "width": 66,
+                    "height": 83
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 25,
+                    "width": 72,
+                    "height": 59
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 68,
+                    "width": 106,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 14,
+                    "width": 68,
+                    "height": 91
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 3,
+                    "width": 86,
+                    "height": 103
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard479.jpg": {
+        "filename": "cardboard479.jpg",
+        "size": 4626,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 13,
+                    "y": 17,
+                    "width": 87,
+                    "height": 128
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 66,
+                    "width": 37,
+                    "height": 94
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 13,
+                    "width": 112,
+                    "height": 143
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 92,
+                    "width": 55,
+                    "height": 82
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard480.jpg": {
+        "filename": "cardboard480.jpg",
+        "size": 4260,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 48,
+                    "width": 64,
+                    "height": 63
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 104,
+                    "width": 59,
+                    "height": 61
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 59,
+                    "width": 66,
+                    "height": 75
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 101,
+                    "y": 119,
+                    "width": 38,
+                    "height": 47
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 133,
+                    "y": 119,
+                    "width": 36,
+                    "height": 49
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 164,
+                    "y": 125,
+                    "width": 49,
+                    "height": 51
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard529.jpg": {
+        "filename": "cardboard529.jpg",
+        "size": 11101,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 148,
+                    "y": 159,
+                    "width": 221,
+                    "height": 156
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard531.jpg": {
+        "filename": "cardboard531.jpg",
+        "size": 4083,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 9,
+                    "width": 141,
+                    "height": 143
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard533.jpg": {
+        "filename": "cardboard533.jpg",
+        "size": 1909,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 74,
+                    "width": 223,
+                    "height": 78
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard540.jpg": {
+        "filename": "cardboard540.jpg",
+        "size": 10026,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 140,
+                    "y": 120,
+                    "width": 155,
+                    "height": 162
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard552.jpg": {
+        "filename": "cardboard552.jpg",
+        "size": 9394,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 173,
+                    "y": 124,
+                    "width": 165,
+                    "height": 192
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard555.jpg": {
+        "filename": "cardboard555.jpg",
+        "size": 2502,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 67,
+                    "width": 85,
+                    "height": 107
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard563.jpg": {
+        "filename": "cardboard563.jpg",
+        "size": 17492,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 82,
+                    "width": 199,
+                    "height": 258
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 176,
+                    "y": 43,
+                    "width": 227,
+                    "height": 159
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard573.jpg": {
+        "filename": "cardboard573.jpg",
+        "size": 14856,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 126,
+                    "y": 110,
+                    "width": 180,
+                    "height": 240
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 81,
+                    "width": 143,
+                    "height": 153
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 199,
+                    "y": 47,
+                    "width": 182,
+                    "height": 180
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard590.jpg": {
+        "filename": "cardboard590.jpg",
+        "size": 3121,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 0,
+                    "y": 74,
+                    "width": 92,
+                    "height": 75
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 111,
+                    "y": 68,
+                    "width": 73,
+                    "height": 55
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 96,
+                    "width": 146,
+                    "height": 73
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard606.jpg": {
+        "filename": "cardboard606.jpg",
+        "size": 4878,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 103,
+                    "width": 41,
+                    "height": 70
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 39,
+                    "width": 52,
+                    "height": 69
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 45,
+                    "y": 68,
+                    "width": 71,
+                    "height": 55
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 14,
+                    "width": 48,
+                    "height": 63
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 165,
+                    "y": 31,
+                    "width": 73,
+                    "height": 30
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 133,
+                    "y": 28,
+                    "width": 47,
+                    "height": 42
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 69,
+                    "width": 24,
+                    "height": 33
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 94,
+                    "width": 40,
+                    "height": 27
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 111,
+                    "width": 78,
+                    "height": 43
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 185,
+                    "y": 99,
+                    "width": 41,
+                    "height": 67
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 145,
+                    "y": 139,
+                    "width": 73,
+                    "height": 42
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 113,
+                    "width": 71,
+                    "height": 39
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 139,
+                    "width": 77,
+                    "height": 41
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 138,
+                    "y": 70,
+                    "width": 43,
+                    "height": 44
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 57,
+                    "width": 68,
+                    "height": 45
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard629.jpg": {
+        "filename": "cardboard629.jpg",
+        "size": 2412,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 69,
+                    "width": 169,
+                    "height": 108
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard640.jpg": {
+        "filename": "cardboard640.jpg",
+        "size": 3486,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 54,
+                    "width": 172,
+                    "height": 132
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard654.jpg": {
+        "filename": "cardboard654.jpg",
+        "size": 2300,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 55,
+                    "width": 200,
+                    "height": 80
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard660.jpg": {
+        "filename": "cardboard660.jpg",
+        "size": 25441,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 10,
+                    "width": 509,
+                    "height": 270
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard675.jpg": {
+        "filename": "cardboard675.jpg",
+        "size": 4285,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 0,
+                    "width": 166,
+                    "height": 126
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 61,
+                    "width": 126,
+                    "height": 86
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 202,
+                    "y": 13,
+                    "width": 141,
+                    "height": 117
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard689.jpg": {
+        "filename": "cardboard689.jpg",
+        "size": 6871,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 67,
+                    "width": 119,
+                    "height": 103
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 16,
+                    "width": 78,
+                    "height": 64
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 135,
+                    "y": 104,
+                    "width": 88,
+                    "height": 80
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 142,
+                    "y": 61,
+                    "width": 99,
+                    "height": 73
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 193,
+                    "y": 4,
+                    "width": 69,
+                    "height": 76
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 236,
+                    "y": 80,
+                    "width": 26,
+                    "height": 71
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard692.jpg": {
+        "filename": "cardboard692.jpg",
+        "size": 5787,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 115,
+                    "width": 79,
+                    "height": 55
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 66,
+                    "width": 80,
+                    "height": 55
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 16,
+                    "width": 83,
+                    "height": 53
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 66,
+                    "width": 83,
+                    "height": 53
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 116,
+                    "width": 62,
+                    "height": 55
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 152,
+                    "y": 108,
+                    "width": 86,
+                    "height": 65
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 202,
+                    "y": 106,
+                    "width": 16,
+                    "height": 16
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard723.jpg": {
+        "filename": "cardboard723.jpg",
+        "size": 4392,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 31,
+                    "width": 130,
+                    "height": 19
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 49,
+                    "width": 136,
+                    "height": 20
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 69,
+                    "width": 147,
+                    "height": 23
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 91,
+                    "width": 157,
+                    "height": 28
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 113,
+                    "width": 160,
+                    "height": 25
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 136,
+                    "width": 175,
+                    "height": 27
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard726.jpg": {
+        "filename": "cardboard726.jpg",
+        "size": 19498,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 117,
+                    "width": 448,
+                    "height": 226
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard730.jpg": {
+        "filename": "cardboard730.jpg",
+        "size": 3927,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 8,
+                    "width": 223,
+                    "height": 177
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard737.jpg": {
+        "filename": "cardboard737.jpg",
+        "size": 15681,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 68,
+                    "width": 485,
+                    "height": 256
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard745.jpg": {
+        "filename": "cardboard745.jpg",
+        "size": 4639,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 20,
+                    "width": 212,
+                    "height": 124
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard748.jpg": {
+        "filename": "cardboard748.jpg",
+        "size": 12535,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 132,
+                    "width": 304,
+                    "height": 183
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard757.jpg": {
+        "filename": "cardboard757.jpg",
+        "size": 8443,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 11,
+                    "width": 211,
+                    "height": 142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard758.jpg": {
+        "filename": "cardboard758.jpg",
+        "size": 5356,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 8,
+                    "width": 215,
+                    "height": 171
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard775.jpg": {
+        "filename": "cardboard775.jpg",
+        "size": 3541,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 32,
+                    "width": 156,
+                    "height": 166
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard776.jpg": {
+        "filename": "cardboard776.jpg",
+        "size": 4897,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 5,
+                    "width": 237,
+                    "height": 154
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard779.jpg": {
+        "filename": "cardboard779.jpg",
+        "size": 4660,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 26,
+                    "width": 202,
+                    "height": 146
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard807.jpg": {
+        "filename": "cardboard807.jpg",
+        "size": 5301,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 77,
+                    "width": 101,
+                    "height": 106
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 44,
+                    "width": 115,
+                    "height": 127
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 44,
+                    "width": 90,
+                    "height": 58
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard826.jpg": {
+        "filename": "cardboard826.jpg",
+        "size": 23224,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 0,
+                    "width": 473,
+                    "height": 381
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard828.jpg": {
+        "filename": "cardboard828.jpg",
+        "size": 2755,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 37,
+                    "width": 201,
+                    "height": 111
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard833.jpg": {
+        "filename": "cardboard833.jpg",
+        "size": 4250,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 38,
+                    "width": 242,
+                    "height": 112
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard835.jpg": {
+        "filename": "cardboard835.jpg",
+        "size": 8739,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 12,
+                    "width": 151,
+                    "height": 196
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard837.jpg": {
+        "filename": "cardboard837.jpg",
+        "size": 29480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 1,
+                    "width": 470,
+                    "height": 381
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard841.jpg": {
+        "filename": "cardboard841.jpg",
+        "size": 5894,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 30,
+                    "width": 237,
+                    "height": 122
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard846.jpg": {
+        "filename": "cardboard846.jpg",
+        "size": 4380,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 5,
+                    "width": 205,
+                    "height": 99
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard848.jpg": {
+        "filename": "cardboard848.jpg",
+        "size": 21759,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 1,
+                    "width": 463,
+                    "height": 381
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard852.jpg": {
+        "filename": "cardboard852.jpg",
+        "size": 6458,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 11,
+                    "y": 8,
+                    "width": 161,
+                    "height": 249
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard855.jpg": {
+        "filename": "cardboard855.jpg",
+        "size": 5302,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 64,
+                    "width": 194,
+                    "height": 93
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard856.jpg": {
+        "filename": "cardboard856.jpg",
+        "size": 4053,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 28,
+                    "width": 250,
+                    "height": 119
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard857.jpg": {
+        "filename": "cardboard857.jpg",
+        "size": 3846,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 0,
+                    "width": 230,
+                    "height": 164
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard858.jpg": {
+        "filename": "cardboard858.jpg",
+        "size": 18945,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 0,
+                    "width": 377,
+                    "height": 383
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard860.jpg": {
+        "filename": "cardboard860.jpg",
+        "size": 7544,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 15,
+                    "width": 332,
+                    "height": 121
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard863.jpg": {
+        "filename": "cardboard863.jpg",
+        "size": 4462,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 48,
+                    "width": 254,
+                    "height": 111
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard864.jpg": {
+        "filename": "cardboard864.jpg",
+        "size": 4035,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 55,
+                    "width": 164,
+                    "height": 100
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard867.jpg": {
+        "filename": "cardboard867.jpg",
+        "size": 5235,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 21,
+                    "width": 226,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 104,
+                    "width": 167,
+                    "height": 90
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard869.jpg": {
+        "filename": "cardboard869.jpg",
+        "size": 20433,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 28,
+                    "width": 363,
+                    "height": 355
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard887.jpg": {
+        "filename": "cardboard887.jpg",
+        "size": 14571,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 33,
+                    "width": 494,
+                    "height": 279
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard889.jpg": {
+        "filename": "cardboard889.jpg",
+        "size": 17305,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 23,
+                    "width": 501,
+                    "height": 345
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "cardboard891.jpg": {
+        "filename": "cardboard891.jpg",
+        "size": 14021,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 0,
+                    "width": 323,
+                    "height": 383
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}

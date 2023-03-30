@@ -1,0 +1,2022 @@
+{
+    "white-glass3.jpg": {
+        "filename": "white-glass3.jpg",
+        "size": 9282,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 113,
+                    "width": 228,
+                    "height": 121
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass29.jpg": {
+        "filename": "white-glass29.jpg",
+        "size": 7017,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 215,
+                    "y": 59,
+                    "width": 106,
+                    "height": 257
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass45.jpg": {
+        "filename": "white-glass45.jpg",
+        "size": 12022,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 285,
+                    "width": 437,
+                    "height": 98
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass47.jpg": {
+        "filename": "white-glass47.jpg",
+        "size": 16416,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 17,
+                    "width": 389,
+                    "height": 170
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass96.jpg": {
+        "filename": "white-glass96.jpg",
+        "size": 20658,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 51,
+                    "width": 421,
+                    "height": 278
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass108.jpg": {
+        "filename": "white-glass108.jpg",
+        "size": 11218,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 121,
+                    "width": 411,
+                    "height": 142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass117.jpg": {
+        "filename": "white-glass117.jpg",
+        "size": 13490,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 121,
+                    "width": 360,
+                    "height": 127
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass119.jpg": {
+        "filename": "white-glass119.jpg",
+        "size": 17518,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 120,
+                    "width": 432,
+                    "height": 263
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass130.jpg": {
+        "filename": "white-glass130.jpg",
+        "size": 17863,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 92,
+                    "width": 361,
+                    "height": 214
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass142.jpg": {
+        "filename": "white-glass142.jpg",
+        "size": 21071,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 76,
+                    "width": 444,
+                    "height": 229
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass150.jpg": {
+        "filename": "white-glass150.jpg",
+        "size": 12131,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 122,
+                    "width": 430,
+                    "height": 165
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass169.jpg": {
+        "filename": "white-glass169.jpg",
+        "size": 14104,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 130,
+                    "width": 340,
+                    "height": 146
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass171.jpg": {
+        "filename": "white-glass171.jpg",
+        "size": 16238,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 89,
+                    "width": 414,
+                    "height": 136
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass174.jpg": {
+        "filename": "white-glass174.jpg",
+        "size": 14980,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 103,
+                    "width": 442,
+                    "height": 129
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass228.jpg": {
+        "filename": "white-glass228.jpg",
+        "size": 8946,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 195,
+                    "y": 60,
+                    "width": 126,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass234.jpg": {
+        "filename": "white-glass234.jpg",
+        "size": 16316,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 14,
+                    "width": 175,
+                    "height": 328
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass236.jpg": {
+        "filename": "white-glass236.jpg",
+        "size": 18134,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 102,
+                    "width": 378,
+                    "height": 180
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass244.jpg": {
+        "filename": "white-glass244.jpg",
+        "size": 2706,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 10,
+                    "width": 68,
+                    "height": 233
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass245.jpg": {
+        "filename": "white-glass245.jpg",
+        "size": 3121,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 30,
+                    "width": 108,
+                    "height": 212
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass247.jpg": {
+        "filename": "white-glass247.jpg",
+        "size": 2773,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 22,
+                    "width": 86,
+                    "height": 228
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass249.jpg": {
+        "filename": "white-glass249.jpg",
+        "size": 1853,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 43,
+                    "width": 71,
+                    "height": 160
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass250.jpg": {
+        "filename": "white-glass250.jpg",
+        "size": 2359,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 24,
+                    "width": 88,
+                    "height": 170
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass253.jpg": {
+        "filename": "white-glass253.jpg",
+        "size": 2982,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 16,
+                    "width": 51,
+                    "height": 237
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass254.jpg": {
+        "filename": "white-glass254.jpg",
+        "size": 4335,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 21,
+                    "width": 124,
+                    "height": 252
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass255.jpg": {
+        "filename": "white-glass255.jpg",
+        "size": 2179,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 40,
+                    "width": 48,
+                    "height": 192
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass257.jpg": {
+        "filename": "white-glass257.jpg",
+        "size": 7685,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 87,
+                    "width": 87,
+                    "height": 138
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 0,
+                    "width": 59,
+                    "height": 222
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass259.jpg": {
+        "filename": "white-glass259.jpg",
+        "size": 4339,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 8,
+                    "width": 104,
+                    "height": 225
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass265.jpg": {
+        "filename": "white-glass265.jpg",
+        "size": 3097,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 50,
+                    "width": 54,
+                    "height": 178
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass270.jpg": {
+        "filename": "white-glass270.jpg",
+        "size": 4699,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 20,
+                    "width": 66,
+                    "height": 233
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 11,
+                    "width": 67,
+                    "height": 253
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass272.jpg": {
+        "filename": "white-glass272.jpg",
+        "size": 4891,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 40,
+                    "width": 121,
+                    "height": 219
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass273.jpg": {
+        "filename": "white-glass273.jpg",
+        "size": 3800,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 12,
+                    "width": 60,
+                    "height": 96
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 7,
+                    "width": 59,
+                    "height": 99
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 116,
+                    "width": 57,
+                    "height": 101
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 117,
+                    "width": 59,
+                    "height": 100
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass278.jpg": {
+        "filename": "white-glass278.jpg",
+        "size": 2707,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 15,
+                    "width": 65,
+                    "height": 236
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass284.jpg": {
+        "filename": "white-glass284.jpg",
+        "size": 2582,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 28,
+                    "width": 111,
+                    "height": 183
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass285.jpg": {
+        "filename": "white-glass285.jpg",
+        "size": 2590,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 1,
+                    "width": 99,
+                    "height": 341
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass290.jpg": {
+        "filename": "white-glass290.jpg",
+        "size": 3161,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 13,
+                    "width": 59,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass297.jpg": {
+        "filename": "white-glass297.jpg",
+        "size": 2782,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 23,
+                    "width": 76,
+                    "height": 266
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass298.jpg": {
+        "filename": "white-glass298.jpg",
+        "size": 4924,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 33,
+                    "width": 37,
+                    "height": 147
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 51,
+                    "width": 43,
+                    "height": 129
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 85,
+                    "width": 47,
+                    "height": 98
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 173,
+                    "y": 53,
+                    "width": 37,
+                    "height": 127
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass303.jpg": {
+        "filename": "white-glass303.jpg",
+        "size": 2961,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 60,
+                    "width": 78,
+                    "height": 142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass308.jpg": {
+        "filename": "white-glass308.jpg",
+        "size": 3481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 25,
+                    "width": 78,
+                    "height": 231
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 135,
+                    "width": 73,
+                    "height": 112
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass310.jpg": {
+        "filename": "white-glass310.jpg",
+        "size": 4221,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 32,
+                    "width": 50,
+                    "height": 126
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 26,
+                    "width": 55,
+                    "height": 133
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 182,
+                    "y": 32,
+                    "width": 52,
+                    "height": 128
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass311.jpg": {
+        "filename": "white-glass311.jpg",
+        "size": 3540,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 34,
+                    "width": 84,
+                    "height": 175
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 110,
+                    "y": 30,
+                    "width": 82,
+                    "height": 182
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass313.jpg": {
+        "filename": "white-glass313.jpg",
+        "size": 3880,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 48,
+                    "width": 66,
+                    "height": 137
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 46,
+                    "width": 106,
+                    "height": 137
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass317.jpg": {
+        "filename": "white-glass317.jpg",
+        "size": 2342,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 16,
+                    "width": 78,
+                    "height": 195
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass318.jpg": {
+        "filename": "white-glass318.jpg",
+        "size": 4136,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 19,
+                    "width": 61,
+                    "height": 240
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 17,
+                    "width": 62,
+                    "height": 243
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass319.jpg": {
+        "filename": "white-glass319.jpg",
+        "size": 5866,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 65,
+                    "width": 61,
+                    "height": 112
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 66,
+                    "width": 60,
+                    "height": 112
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 147,
+                    "y": 66,
+                    "width": 61,
+                    "height": 111
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass320.jpg": {
+        "filename": "white-glass320.jpg",
+        "size": 3381,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 3,
+                    "width": 96,
+                    "height": 219
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass321.jpg": {
+        "filename": "white-glass321.jpg",
+        "size": 2074,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 47,
+                    "width": 66,
+                    "height": 137
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass326.jpg": {
+        "filename": "white-glass326.jpg",
+        "size": 2269,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 34,
+                    "width": 109,
+                    "height": 208
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass331.jpg": {
+        "filename": "white-glass331.jpg",
+        "size": 2284,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 38,
+                    "width": 52,
+                    "height": 183
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass332.jpg": {
+        "filename": "white-glass332.jpg",
+        "size": 2113,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 87,
+                    "y": 10,
+                    "width": 52,
+                    "height": 206
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass333.jpg": {
+        "filename": "white-glass333.jpg",
+        "size": 3951,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 5,
+                    "width": 130,
+                    "height": 217
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass341.jpg": {
+        "filename": "white-glass341.jpg",
+        "size": 2463,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 54,
+                    "width": 67,
+                    "height": 176
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass345.jpg": {
+        "filename": "white-glass345.jpg",
+        "size": 2428,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 11,
+                    "width": 63,
+                    "height": 201
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass352.jpg": {
+        "filename": "white-glass352.jpg",
+        "size": 2724,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 0,
+                    "width": 61,
+                    "height": 225
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass355.jpg": {
+        "filename": "white-glass355.jpg",
+        "size": 4824,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 3,
+                    "width": 54,
+                    "height": 220
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass356.jpg": {
+        "filename": "white-glass356.jpg",
+        "size": 4674,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 7,
+                    "width": 56,
+                    "height": 175
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 7,
+                    "width": 58,
+                    "height": 175
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass359.jpg": {
+        "filename": "white-glass359.jpg",
+        "size": 3243,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 33,
+                    "width": 44,
+                    "height": 179
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 22,
+                    "width": 45,
+                    "height": 190
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass360.jpg": {
+        "filename": "white-glass360.jpg",
+        "size": 2748,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 9,
+                    "width": 86,
+                    "height": 207
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass366.jpg": {
+        "filename": "white-glass366.jpg",
+        "size": 5990,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 17,
+                    "width": 52,
+                    "height": 194
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 19,
+                    "width": 53,
+                    "height": 193
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 19,
+                    "width": 53,
+                    "height": 193
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 170,
+                    "y": 18,
+                    "width": 52,
+                    "height": 193
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass367.jpg": {
+        "filename": "white-glass367.jpg",
+        "size": 3489,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 8,
+                    "width": 82,
+                    "height": 200
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass370.jpg": {
+        "filename": "white-glass370.jpg",
+        "size": 2494,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 27,
+                    "width": 75,
+                    "height": 181
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass371.jpg": {
+        "filename": "white-glass371.jpg",
+        "size": 4145,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 111,
+                    "width": 47,
+                    "height": 106
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 62,
+                    "width": 62,
+                    "height": 154
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 135,
+                    "y": 11,
+                    "width": 77,
+                    "height": 202
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass373.jpg": {
+        "filename": "white-glass373.jpg",
+        "size": 5109,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 6,
+                    "width": 106,
+                    "height": 197
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 133,
+                    "y": 32,
+                    "width": 87,
+                    "height": 172
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass381.jpg": {
+        "filename": "white-glass381.jpg",
+        "size": 4274,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 51,
+                    "width": 33,
+                    "height": 128
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 52,
+                    "width": 61,
+                    "height": 124
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 49,
+                    "width": 57,
+                    "height": 122
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 171,
+                    "y": 51,
+                    "width": 34,
+                    "height": 124
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass382.jpg": {
+        "filename": "white-glass382.jpg",
+        "size": 5178,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 10,
+                    "width": 140,
+                    "height": 219
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass384.jpg": {
+        "filename": "white-glass384.jpg",
+        "size": 2496,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 19,
+                    "width": 70,
+                    "height": 164
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass387.jpg": {
+        "filename": "white-glass387.jpg",
+        "size": 3031,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 15,
+                    "width": 95,
+                    "height": 202
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass393.jpg": {
+        "filename": "white-glass393.jpg",
+        "size": 2309,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 10,
+                    "width": 63,
+                    "height": 257
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass399.jpg": {
+        "filename": "white-glass399.jpg",
+        "size": 2560,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 3,
+                    "width": 70,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass405.jpg": {
+        "filename": "white-glass405.jpg",
+        "size": 4700,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 50,
+                    "width": 69,
+                    "height": 189
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 103,
+                    "y": 50,
+                    "width": 70,
+                    "height": 186
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass414.jpg": {
+        "filename": "white-glass414.jpg",
+        "size": 2327,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 79,
+                    "width": 85,
+                    "height": 173
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass417.jpg": {
+        "filename": "white-glass417.jpg",
+        "size": 4098,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 15,
+                    "width": 88,
+                    "height": 225
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass427.jpg": {
+        "filename": "white-glass427.jpg",
+        "size": 3859,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 49,
+                    "width": 60,
+                    "height": 120
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 8,
+                    "width": 67,
+                    "height": 210
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass429.jpg": {
+        "filename": "white-glass429.jpg",
+        "size": 5293,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 1,
+                    "width": 167,
+                    "height": 290
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass436.jpg": {
+        "filename": "white-glass436.jpg",
+        "size": 2296,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 51,
+                    "y": 31,
+                    "width": 85,
+                    "height": 213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass440.jpg": {
+        "filename": "white-glass440.jpg",
+        "size": 2560,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 50,
+                    "width": 99,
+                    "height": 199
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass441.jpg": {
+        "filename": "white-glass441.jpg",
+        "size": 2560,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 35,
+                    "width": 57,
+                    "height": 164
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass447.jpg": {
+        "filename": "white-glass447.jpg",
+        "size": 1930,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 19,
+                    "width": 52,
+                    "height": 191
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass448.jpg": {
+        "filename": "white-glass448.jpg",
+        "size": 2960,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 11,
+                    "width": 57,
+                    "height": 205
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass460.jpg": {
+        "filename": "white-glass460.jpg",
+        "size": 2656,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 9,
+                    "width": 63,
+                    "height": 258
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass466.jpg": {
+        "filename": "white-glass466.jpg",
+        "size": 3148,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 19,
+                    "width": 102,
+                    "height": 235
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass492.jpg": {
+        "filename": "white-glass492.jpg",
+        "size": 3052,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 39,
+                    "width": 46,
+                    "height": 131
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass498.jpg": {
+        "filename": "white-glass498.jpg",
+        "size": 6685,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 61,
+                    "width": 101,
+                    "height": 119
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 116,
+                    "y": 62,
+                    "width": 99,
+                    "height": 119
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass499.jpg": {
+        "filename": "white-glass499.jpg",
+        "size": 7487,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 20,
+                    "width": 121,
+                    "height": 197
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass505.jpg": {
+        "filename": "white-glass505.jpg",
+        "size": 3121,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 43,
+                    "width": 119,
+                    "height": 147
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass523.jpg": {
+        "filename": "white-glass523.jpg",
+        "size": 4269,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 32,
+                    "width": 129,
+                    "height": 173
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass528.jpg": {
+        "filename": "white-glass528.jpg",
+        "size": 6268,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 9,
+                    "width": 200,
+                    "height": 235
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass541.jpg": {
+        "filename": "white-glass541.jpg",
+        "size": 3406,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 11,
+                    "width": 186,
+                    "height": 202
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass592.jpg": {
+        "filename": "white-glass592.jpg",
+        "size": 3684,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 1,
+                    "width": 126,
+                    "height": 223
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass596.jpg": {
+        "filename": "white-glass596.jpg",
+        "size": 13899,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 137,
+                    "y": 47,
+                    "width": 217,
+                    "height": 299
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass613.jpg": {
+        "filename": "white-glass613.jpg",
+        "size": 4303,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 27,
+                    "width": 148,
+                    "height": 203
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass615.jpg": {
+        "filename": "white-glass615.jpg",
+        "size": 3694,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 29,
+                    "width": 115,
+                    "height": 222
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass624.jpg": {
+        "filename": "white-glass624.jpg",
+        "size": 6393,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 1,
+                    "width": 186,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass625.jpg": {
+        "filename": "white-glass625.jpg",
+        "size": 3273,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 28,
+                    "width": 108,
+                    "height": 215
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass646.jpg": {
+        "filename": "white-glass646.jpg",
+        "size": 3605,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 14,
+                    "width": 182,
+                    "height": 197
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass697.jpg": {
+        "filename": "white-glass697.jpg",
+        "size": 5860,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 79,
+                    "width": 99,
+                    "height": 121
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 79,
+                    "width": 84,
+                    "height": 105
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass718.jpg": {
+        "filename": "white-glass718.jpg",
+        "size": 8014,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 8,
+                    "width": 146,
+                    "height": 209
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass741.jpg": {
+        "filename": "white-glass741.jpg",
+        "size": 4504,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 31,
+                    "width": 99,
+                    "height": 171
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass743.jpg": {
+        "filename": "white-glass743.jpg",
+        "size": 5158,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 69,
+                    "width": 73,
+                    "height": 117
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 123,
+                    "y": 77,
+                    "width": 75,
+                    "height": 107
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "white-glass756.jpg": {
+        "filename": "white-glass756.jpg",
+        "size": 11183,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 96,
+                    "width": 305,
+                    "height": 181
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}

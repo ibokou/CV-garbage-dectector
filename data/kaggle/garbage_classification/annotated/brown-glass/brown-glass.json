@@ -1,0 +1,2862 @@
+{
+    "brown-glass5.jpg": {
+        "filename": "brown-glass5.jpg",
+        "size": 4471,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 0,
+                    "width": 134,
+                    "height": 364
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass11.jpg": {
+        "filename": "brown-glass11.jpg",
+        "size": 4713,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 8,
+                    "width": 112,
+                    "height": 268
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass12.jpg": {
+        "filename": "brown-glass12.jpg",
+        "size": 5381,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 47,
+                    "width": 55,
+                    "height": 140
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 96,
+                    "width": 46,
+                    "height": 98
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 136,
+                    "y": 69,
+                    "width": 52,
+                    "height": 113
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass15.jpg": {
+        "filename": "brown-glass15.jpg",
+        "size": 6686,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 37,
+                    "y": 20,
+                    "width": 101,
+                    "height": 234
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass16.jpg": {
+        "filename": "brown-glass16.jpg",
+        "size": 3055,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 56,
+                    "width": 66,
+                    "height": 162
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass17.jpg": {
+        "filename": "brown-glass17.jpg",
+        "size": 4509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 13,
+                    "width": 74,
+                    "height": 181
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 121,
+                    "y": 16,
+                    "width": 76,
+                    "height": 177
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass18.jpg": {
+        "filename": "brown-glass18.jpg",
+        "size": 2847,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 50,
+                    "width": 58,
+                    "height": 170
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass21.jpg": {
+        "filename": "brown-glass21.jpg",
+        "size": 5481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 67,
+                    "width": 45,
+                    "height": 122
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 91,
+                    "width": 32,
+                    "height": 97
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 83,
+                    "width": 33,
+                    "height": 108
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 140,
+                    "y": 77,
+                    "width": 45,
+                    "height": 115
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass22.jpg": {
+        "filename": "brown-glass22.jpg",
+        "size": 5245,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 12,
+                    "y": 12,
+                    "width": 77,
+                    "height": 200
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 16,
+                    "width": 82,
+                    "height": 199
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass23.jpg": {
+        "filename": "brown-glass23.jpg",
+        "size": 2184,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 22,
+                    "width": 62,
+                    "height": 150
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass24.jpg": {
+        "filename": "brown-glass24.jpg",
+        "size": 6097,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 46,
+                    "width": 40,
+                    "height": 119
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 91,
+                    "width": 59,
+                    "height": 74
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 124,
+                    "y": 68,
+                    "width": 53,
+                    "height": 95
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 179,
+                    "y": 87,
+                    "width": 40,
+                    "height": 76
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 220,
+                    "y": 35,
+                    "width": 57,
+                    "height": 128
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass26.jpg": {
+        "filename": "brown-glass26.jpg",
+        "size": 5403,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 122,
+                    "width": 110,
+                    "height": 70
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 64,
+                    "width": 64,
+                    "height": 129
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass30.jpg": {
+        "filename": "brown-glass30.jpg",
+        "size": 8712,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 2,
+                    "y": 42,
+                    "width": 64,
+                    "height": 164
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 45,
+                    "width": 64,
+                    "height": 163
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 170,
+                    "y": 47,
+                    "width": 67,
+                    "height": 163
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 16,
+                    "y": 0,
+                    "width": 62,
+                    "height": 150
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 3,
+                    "width": 59,
+                    "height": 145
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 175,
+                    "y": 4,
+                    "width": 59,
+                    "height": 100
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass35.jpg": {
+        "filename": "brown-glass35.jpg",
+        "size": 3023,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 15,
+                    "width": 92,
+                    "height": 200
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass36.jpg": {
+        "filename": "brown-glass36.jpg",
+        "size": 4101,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 62,
+                    "width": 48,
+                    "height": 125
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 76,
+                    "width": 48,
+                    "height": 110
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass37.jpg": {
+        "filename": "brown-glass37.jpg",
+        "size": 2864,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 10,
+                    "width": 85,
+                    "height": 210
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass38.jpg": {
+        "filename": "brown-glass38.jpg",
+        "size": 3607,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 57,
+                    "width": 57,
+                    "height": 154
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass40.jpg": {
+        "filename": "brown-glass40.jpg",
+        "size": 2824,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 35,
+                    "width": 64,
+                    "height": 207
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass43.jpg": {
+        "filename": "brown-glass43.jpg",
+        "size": 4890,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 42,
+                    "width": 66,
+                    "height": 171
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 0,
+                    "width": 71,
+                    "height": 197
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 130,
+                    "y": 98,
+                    "width": 45,
+                    "height": 126
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass44.jpg": {
+        "filename": "brown-glass44.jpg",
+        "size": 5640,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 52,
+                    "y": 40,
+                    "width": 37,
+                    "height": 154
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 38,
+                    "width": 41,
+                    "height": 164
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 40,
+                    "width": 33,
+                    "height": 158
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 148,
+                    "y": 39,
+                    "width": 40,
+                    "height": 161
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass45.jpg": {
+        "filename": "brown-glass45.jpg",
+        "size": 5147,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 40,
+                    "width": 70,
+                    "height": 141
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 0,
+                    "width": 82,
+                    "height": 176
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 123,
+                    "y": 71,
+                    "width": 58,
+                    "height": 121
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass46.jpg": {
+        "filename": "brown-glass46.jpg",
+        "size": 6509,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 11,
+                    "width": 74,
+                    "height": 167
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 43,
+                    "width": 57,
+                    "height": 135
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 64,
+                    "width": 48,
+                    "height": 113
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 212,
+                    "y": 83,
+                    "width": 38,
+                    "height": 92
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass51.jpg": {
+        "filename": "brown-glass51.jpg",
+        "size": 8231,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 8,
+                    "width": 41,
+                    "height": 164
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 114,
+                    "y": 7,
+                    "width": 42,
+                    "height": 164
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 164,
+                    "y": 7,
+                    "width": 40,
+                    "height": 164
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass54.jpg": {
+        "filename": "brown-glass54.jpg",
+        "size": 4620,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 45,
+                    "width": 90,
+                    "height": 177
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass56.jpg": {
+        "filename": "brown-glass56.jpg",
+        "size": 2424,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 71,
+                    "width": 57,
+                    "height": 132
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass57.jpg": {
+        "filename": "brown-glass57.jpg",
+        "size": 5766,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 5,
+                    "width": 157,
+                    "height": 292
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass58.jpg": {
+        "filename": "brown-glass58.jpg",
+        "size": 6098,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 22,
+                    "width": 57,
+                    "height": 233
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 69,
+                    "width": 51,
+                    "height": 201
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 99,
+                    "y": 14,
+                    "width": 49,
+                    "height": 242
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass59.jpg": {
+        "filename": "brown-glass59.jpg",
+        "size": 7910,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 82,
+                    "width": 69,
+                    "height": 129
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 15,
+                    "width": 89,
+                    "height": 171
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 49,
+                    "width": 80,
+                    "height": 153
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass60.jpg": {
+        "filename": "brown-glass60.jpg",
+        "size": 4114,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 104,
+                    "width": 41,
+                    "height": 89
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 75,
+                    "y": 75,
+                    "width": 52,
+                    "height": 117
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 141,
+                    "y": 52,
+                    "width": 63,
+                    "height": 141
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass61.jpg": {
+        "filename": "brown-glass61.jpg",
+        "size": 5785,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 29,
+                    "y": 109,
+                    "width": 33,
+                    "height": 79
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 98,
+                    "width": 35,
+                    "height": 105
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 37,
+                    "width": 69,
+                    "height": 171
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 62,
+                    "width": 43,
+                    "height": 111
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 23,
+                    "width": 56,
+                    "height": 148
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 160,
+                    "y": 46,
+                    "width": 39,
+                    "height": 133
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass68.jpg": {
+        "filename": "brown-glass68.jpg",
+        "size": 3557,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 12,
+                    "width": 50,
+                    "height": 141
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass72.jpg": {
+        "filename": "brown-glass72.jpg",
+        "size": 7986,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 9,
+                    "width": 88,
+                    "height": 379
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass75.jpg": {
+        "filename": "brown-glass75.jpg",
+        "size": 3294,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 40,
+                    "width": 73,
+                    "height": 178
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass76.jpg": {
+        "filename": "brown-glass76.jpg",
+        "size": 4365,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 90,
+                    "width": 52,
+                    "height": 110
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 128,
+                    "y": 77,
+                    "width": 62,
+                    "height": 123
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 37,
+                    "width": 67,
+                    "height": 142
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 98,
+                    "y": 12,
+                    "width": 75,
+                    "height": 161
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass78.jpg": {
+        "filename": "brown-glass78.jpg",
+        "size": 2843,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 18,
+                    "width": 47,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass90.jpg": {
+        "filename": "brown-glass90.jpg",
+        "size": 2338,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 21,
+                    "width": 50,
+                    "height": 192
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass94.jpg": {
+        "filename": "brown-glass94.jpg",
+        "size": 2433,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 32,
+                    "width": 66,
+                    "height": 184
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass95.jpg": {
+        "filename": "brown-glass95.jpg",
+        "size": 4524,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 7,
+                    "width": 73,
+                    "height": 167
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 64,
+                    "width": 63,
+                    "height": 144
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 31,
+                    "width": 54,
+                    "height": 116
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 43,
+                    "width": 71,
+                    "height": 152
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass104.jpg": {
+        "filename": "brown-glass104.jpg",
+        "size": 5213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 56,
+                    "y": 59,
+                    "width": 62,
+                    "height": 148
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 11,
+                    "width": 81,
+                    "height": 162
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 141,
+                    "y": 81,
+                    "width": 57,
+                    "height": 117
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 36,
+                    "width": 69,
+                    "height": 136
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass108.jpg": {
+        "filename": "brown-glass108.jpg",
+        "size": 10481,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 20,
+                    "width": 48,
+                    "height": 176
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 60,
+                    "width": 57,
+                    "height": 149
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 82,
+                    "width": 56,
+                    "height": 136
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 38,
+                    "width": 52,
+                    "height": 167
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 161,
+                    "y": 6,
+                    "width": 44,
+                    "height": 183
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass109.jpg": {
+        "filename": "brown-glass109.jpg",
+        "size": 3074,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 2,
+                    "width": 87,
+                    "height": 223
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass110.jpg": {
+        "filename": "brown-glass110.jpg",
+        "size": 7135,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 19,
+                    "y": 21,
+                    "width": 81,
+                    "height": 193
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 12,
+                    "width": 78,
+                    "height": 201
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass119.jpg": {
+        "filename": "brown-glass119.jpg",
+        "size": 3540,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 11,
+                    "width": 98,
+                    "height": 204
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass122.jpg": {
+        "filename": "brown-glass122.jpg",
+        "size": 3998,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 42,
+                    "width": 89,
+                    "height": 162
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass125.jpg": {
+        "filename": "brown-glass125.jpg",
+        "size": 5176,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 11,
+                    "y": 31,
+                    "width": 61,
+                    "height": 185
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 29,
+                    "width": 58,
+                    "height": 187
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 148,
+                    "y": 28,
+                    "width": 61,
+                    "height": 187
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass126.jpg": {
+        "filename": "brown-glass126.jpg",
+        "size": 3843,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 5,
+                    "width": 58,
+                    "height": 234
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass127.jpg": {
+        "filename": "brown-glass127.jpg",
+        "size": 5760,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 46,
+                    "width": 43,
+                    "height": 168
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 102,
+                    "y": 70,
+                    "width": 35,
+                    "height": 142
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 149,
+                    "y": 93,
+                    "width": 38,
+                    "height": 121
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass128.jpg": {
+        "filename": "brown-glass128.jpg",
+        "size": 5028,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 32,
+                    "width": 155,
+                    "height": 164
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass129.jpg": {
+        "filename": "brown-glass129.jpg",
+        "size": 7205,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 22,
+                    "width": 43,
+                    "height": 163
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 59,
+                    "y": 49,
+                    "width": 46,
+                    "height": 149
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 31,
+                    "width": 41,
+                    "height": 158
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 121,
+                    "y": 67,
+                    "width": 37,
+                    "height": 132
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 155,
+                    "y": 64,
+                    "width": 45,
+                    "height": 127
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass130.jpg": {
+        "filename": "brown-glass130.jpg",
+        "size": 2958,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 0,
+                    "width": 70,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass134.jpg": {
+        "filename": "brown-glass134.jpg",
+        "size": 9596,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 137,
+                    "width": 399,
+                    "height": 117
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass146.jpg": {
+        "filename": "brown-glass146.jpg",
+        "size": 2836,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 22,
+                    "width": 80,
+                    "height": 192
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass189.jpg": {
+        "filename": "brown-glass189.jpg",
+        "size": 2512,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 36,
+                    "width": 40,
+                    "height": 160
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass190.jpg": {
+        "filename": "brown-glass190.jpg",
+        "size": 4895,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 36,
+                    "width": 48,
+                    "height": 177
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 94,
+                    "y": 56,
+                    "width": 47,
+                    "height": 152
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 164,
+                    "y": 57,
+                    "width": 41,
+                    "height": 148
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass209.jpg": {
+        "filename": "brown-glass209.jpg",
+        "size": 3324,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 19,
+                    "width": 95,
+                    "height": 193
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass221.jpg": {
+        "filename": "brown-glass221.jpg",
+        "size": 14661,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 65,
+                    "y": 107,
+                    "width": 447,
+                    "height": 159
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass223.jpg": {
+        "filename": "brown-glass223.jpg",
+        "size": 3240,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 0,
+                    "width": 103,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass224.jpg": {
+        "filename": "brown-glass224.jpg",
+        "size": 5073,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 48,
+                    "width": 48,
+                    "height": 164
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 100,
+                    "y": 48,
+                    "width": 53,
+                    "height": 161
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass234.jpg": {
+        "filename": "brown-glass234.jpg",
+        "size": 8231,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 43,
+                    "width": 43,
+                    "height": 158
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 65,
+                    "width": 38,
+                    "height": 141
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 60,
+                    "y": 28,
+                    "width": 43,
+                    "height": 175
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 44,
+                    "width": 53,
+                    "height": 165
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 32,
+                    "width": 45,
+                    "height": 175
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 160,
+                    "y": 48,
+                    "width": 51,
+                    "height": 158
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass235.jpg": {
+        "filename": "brown-glass235.jpg",
+        "size": 3554,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 74,
+                    "y": 61,
+                    "width": 53,
+                    "height": 142
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass241.jpg": {
+        "filename": "brown-glass241.jpg",
+        "size": 12789,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 88,
+                    "y": 129,
+                    "width": 339,
+                    "height": 94
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass275.jpg": {
+        "filename": "brown-glass275.jpg",
+        "size": 2913,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 23,
+                    "width": 49,
+                    "height": 215
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass278.jpg": {
+        "filename": "brown-glass278.jpg",
+        "size": 3776,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 19,
+                    "width": 70,
+                    "height": 198
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass306.jpg": {
+        "filename": "brown-glass306.jpg",
+        "size": 3523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 108,
+                    "width": 207,
+                    "height": 76
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass307.jpg": {
+        "filename": "brown-glass307.jpg",
+        "size": 5340,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 76,
+                    "width": 35,
+                    "height": 106
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 90,
+                    "width": 28,
+                    "height": 90
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 99,
+                    "width": 26,
+                    "height": 82
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 117,
+                    "y": 105,
+                    "width": 23,
+                    "height": 74
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 110,
+                    "width": 22,
+                    "height": 70
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 115,
+                    "width": 18,
+                    "height": 65
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 181,
+                    "y": 122,
+                    "width": 16,
+                    "height": 59
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass313.jpg": {
+        "filename": "brown-glass313.jpg",
+        "size": 3087,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 36,
+                    "width": 71,
+                    "height": 168
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass314.jpg": {
+        "filename": "brown-glass314.jpg",
+        "size": 6311,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 24,
+                    "width": 76,
+                    "height": 176
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass320.jpg": {
+        "filename": "brown-glass320.jpg",
+        "size": 4185,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 14,
+                    "width": 92,
+                    "height": 163
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119,
+                    "y": 22,
+                    "width": 58,
+                    "height": 125
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 159,
+                    "y": 24,
+                    "width": 47,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 188,
+                    "y": 28,
+                    "width": 38,
+                    "height": 88
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass350.jpg": {
+        "filename": "brown-glass350.jpg",
+        "size": 5237,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 35,
+                    "width": 126,
+                    "height": 153
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass354.jpg": {
+        "filename": "brown-glass354.jpg",
+        "size": 3564,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 21,
+                    "width": 89,
+                    "height": 236
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass357.jpg": {
+        "filename": "brown-glass357.jpg",
+        "size": 5937,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 20,
+                    "y": 4,
+                    "width": 91,
+                    "height": 218
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 4,
+                    "width": 91,
+                    "height": 216
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass365.jpg": {
+        "filename": "brown-glass365.jpg",
+        "size": 6208,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 28,
+                    "width": 55,
+                    "height": 102
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 37,
+                    "width": 63,
+                    "height": 119
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 156,
+                    "y": 39,
+                    "width": 68,
+                    "height": 114
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 119,
+                    "y": 27,
+                    "width": 54,
+                    "height": 96
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass382.jpg": {
+        "filename": "brown-glass382.jpg",
+        "size": 2883,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 85,
+                    "y": 13,
+                    "width": 76,
+                    "height": 173
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass399.jpg": {
+        "filename": "brown-glass399.jpg",
+        "size": 3865,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 86,
+                    "y": 12,
+                    "width": 53,
+                    "height": 202
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass400.jpg": {
+        "filename": "brown-glass400.jpg",
+        "size": 8839,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 24,
+                    "width": 78,
+                    "height": 190
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 115,
+                    "y": 25,
+                    "width": 82,
+                    "height": 189
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass414.jpg": {
+        "filename": "brown-glass414.jpg",
+        "size": 4826,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 6,
+                    "width": 88,
+                    "height": 188
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 127,
+                    "y": 8,
+                    "width": 85,
+                    "height": 184
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass434.jpg": {
+        "filename": "brown-glass434.jpg",
+        "size": 3309,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 10,
+                    "width": 87,
+                    "height": 198
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass437.jpg": {
+        "filename": "brown-glass437.jpg",
+        "size": 2538,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 35,
+                    "width": 58,
+                    "height": 169
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass445.jpg": {
+        "filename": "brown-glass445.jpg",
+        "size": 4601,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 26,
+                    "y": 64,
+                    "width": 42,
+                    "height": 104
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 72,
+                    "y": 47,
+                    "width": 54,
+                    "height": 130
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 131,
+                    "y": 33,
+                    "width": 65,
+                    "height": 158
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass446.jpg": {
+        "filename": "brown-glass446.jpg",
+        "size": 7436,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 40,
+                    "width": 71,
+                    "height": 171
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 70,
+                    "y": 34,
+                    "width": 60,
+                    "height": 160
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 122,
+                    "y": 28,
+                    "width": 57,
+                    "height": 154
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 170,
+                    "y": 26,
+                    "width": 54,
+                    "height": 146
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass457.jpg": {
+        "filename": "brown-glass457.jpg",
+        "size": 6428,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 2,
+                    "width": 80,
+                    "height": 215
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 113,
+                    "y": 3,
+                    "width": 83,
+                    "height": 214
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass491.jpg": {
+        "filename": "brown-glass491.jpg",
+        "size": 6532,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 52,
+                    "width": 67,
+                    "height": 157
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 108,
+                    "y": 52,
+                    "width": 67,
+                    "height": 155
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass494.jpg": {
+        "filename": "brown-glass494.jpg",
+        "size": 4533,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 28,
+                    "y": 49,
+                    "width": 31,
+                    "height": 89
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 61,
+                    "y": 62,
+                    "width": 38,
+                    "height": 77
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 97,
+                    "y": 68,
+                    "width": 36,
+                    "height": 70
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 134,
+                    "y": 73,
+                    "width": 28,
+                    "height": 65
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 79,
+                    "width": 29,
+                    "height": 59
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 190,
+                    "y": 80,
+                    "width": 25,
+                    "height": 57
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 214,
+                    "y": 84,
+                    "width": 32,
+                    "height": 54
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass495.jpg": {
+        "filename": "brown-glass495.jpg",
+        "size": 2827,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 90,
+                    "y": 21,
+                    "width": 87,
+                    "height": 149
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass509.jpg": {
+        "filename": "brown-glass509.jpg",
+        "size": 4850,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 118,
+                    "width": 20,
+                    "height": 47
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 40,
+                    "y": 114,
+                    "width": 20,
+                    "height": 50
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 106,
+                    "width": 25,
+                    "height": 57
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 96,
+                    "y": 101,
+                    "width": 26,
+                    "height": 62
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 94,
+                    "width": 28,
+                    "height": 69
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 162,
+                    "y": 82,
+                    "width": 34,
+                    "height": 82
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 204,
+                    "y": 64,
+                    "width": 38,
+                    "height": 99
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass521.jpg": {
+        "filename": "brown-glass521.jpg",
+        "size": 3882,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 28,
+                    "width": 76,
+                    "height": 176
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass528.jpg": {
+        "filename": "brown-glass528.jpg",
+        "size": 5054,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 12,
+                    "width": 108,
+                    "height": 226
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass545.jpg": {
+        "filename": "brown-glass545.jpg",
+        "size": 3198,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 33,
+                    "width": 103,
+                    "height": 206
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass546.jpg": {
+        "filename": "brown-glass546.jpg",
+        "size": 3440,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 53,
+                    "width": 55,
+                    "height": 205
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass547.jpg": {
+        "filename": "brown-glass547.jpg",
+        "size": 4024,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 80,
+                    "y": 17,
+                    "width": 64,
+                    "height": 197
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass558.jpg": {
+        "filename": "brown-glass558.jpg",
+        "size": 5357,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 74,
+                    "width": 41,
+                    "height": 119
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 90,
+                    "width": 32,
+                    "height": 88
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 77,
+                    "width": 37,
+                    "height": 91
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 109,
+                    "y": 68,
+                    "width": 31,
+                    "height": 95
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 140,
+                    "y": 56,
+                    "width": 40,
+                    "height": 107
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 175,
+                    "y": 47,
+                    "width": 50,
+                    "height": 127
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass565.jpg": {
+        "filename": "brown-glass565.jpg",
+        "size": 8245,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 48,
+                    "y": 13,
+                    "width": 47,
+                    "height": 124
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 118,
+                    "y": 14,
+                    "width": 47,
+                    "height": 125
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 191,
+                    "y": 12,
+                    "width": 48,
+                    "height": 128
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass566.jpg": {
+        "filename": "brown-glass566.jpg",
+        "size": 5203,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 5,
+                    "y": 74,
+                    "width": 46,
+                    "height": 90
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 97,
+                    "width": 47,
+                    "height": 83
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 57,
+                    "width": 54,
+                    "height": 108
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 139,
+                    "y": 111,
+                    "width": 36,
+                    "height": 74
+                },
+                "region_attributes": {}
+            },
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 173,
+                    "y": 70,
+                    "width": 49,
+                    "height": 100
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass568.jpg": {
+        "filename": "brown-glass568.jpg",
+        "size": 4082,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 12,
+                    "width": 110,
+                    "height": 224
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass575.jpg": {
+        "filename": "brown-glass575.jpg",
+        "size": 4262,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 5,
+                    "width": 134,
+                    "height": 235
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass576.jpg": {
+        "filename": "brown-glass576.jpg",
+        "size": 5125,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 21,
+                    "width": 87,
+                    "height": 333
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass577.jpg": {
+        "filename": "brown-glass577.jpg",
+        "size": 3934,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 16,
+                    "width": 117,
+                    "height": 234
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass579.jpg": {
+        "filename": "brown-glass579.jpg",
+        "size": 2982,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 4,
+                    "width": 73,
+                    "height": 213
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass585.jpg": {
+        "filename": "brown-glass585.jpg",
+        "size": 3411,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 82,
+                    "y": 7,
+                    "width": 71,
+                    "height": 175
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "brown-glass598.jpg": {
+        "filename": "brown-glass598.jpg",
+        "size": 3232,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 9,
+                    "width": 68,
+                    "height": 242
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}

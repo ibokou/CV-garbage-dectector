@@ -1,0 +1,1702 @@
+{
+    "clothes2.jpg": {
+        "filename": "clothes2.jpg",
+        "size": 35175,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 117,
+                    "width": 358,
+                    "height": 402
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4.jpg": {
+        "filename": "clothes4.jpg",
+        "size": 33743,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 24,
+                    "y": 106,
+                    "width": 369,
+                    "height": 382
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes29.jpg": {
+        "filename": "clothes29.jpg",
+        "size": 15853,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 31,
+                    "width": 310,
+                    "height": 485
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes38.jpg": {
+        "filename": "clothes38.jpg",
+        "size": 18282,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 106,
+                    "y": 120,
+                    "width": 222,
+                    "height": 316
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes44.jpg": {
+        "filename": "clothes44.jpg",
+        "size": 29399,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 136,
+                    "width": 311,
+                    "height": 297
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes45.jpg": {
+        "filename": "clothes45.jpg",
+        "size": 20911,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 95,
+                    "width": 367,
+                    "height": 372
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes47.jpg": {
+        "filename": "clothes47.jpg",
+        "size": 17289,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 43,
+                    "y": 73,
+                    "width": 330,
+                    "height": 344
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes48.jpg": {
+        "filename": "clothes48.jpg",
+        "size": 17128,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 68,
+                    "y": 31,
+                    "width": 259,
+                    "height": 417
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes89.jpg": {
+        "filename": "clothes89.jpg",
+        "size": 25490,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 37,
+                    "width": 346,
+                    "height": 463
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes109.jpg": {
+        "filename": "clothes109.jpg",
+        "size": 28794,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 71,
+                    "width": 383,
+                    "height": 413
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes113.jpg": {
+        "filename": "clothes113.jpg",
+        "size": 20565,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 4,
+                    "y": 54,
+                    "width": 392,
+                    "height": 435
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes115.jpg": {
+        "filename": "clothes115.jpg",
+        "size": 29600,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 46,
+                    "y": 39,
+                    "width": 319,
+                    "height": 452
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes130.jpg": {
+        "filename": "clothes130.jpg",
+        "size": 16207,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 79,
+                    "width": 345,
+                    "height": 401
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes142.jpg": {
+        "filename": "clothes142.jpg",
+        "size": 19379,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 118,
+                    "width": 319,
+                    "height": 358
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes150.jpg": {
+        "filename": "clothes150.jpg",
+        "size": 21742,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 107,
+                    "y": 45,
+                    "width": 176,
+                    "height": 461
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes162.jpg": {
+        "filename": "clothes162.jpg",
+        "size": 18686,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 127,
+                    "width": 351,
+                    "height": 385
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes165.jpg": {
+        "filename": "clothes165.jpg",
+        "size": 30108,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 47,
+                    "y": 53,
+                    "width": 297,
+                    "height": 408
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes173.jpg": {
+        "filename": "clothes173.jpg",
+        "size": 28647,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 54,
+                    "y": 99,
+                    "width": 320,
+                    "height": 240
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes197.jpg": {
+        "filename": "clothes197.jpg",
+        "size": 20453,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 62,
+                    "width": 373,
+                    "height": 391
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes206.jpg": {
+        "filename": "clothes206.jpg",
+        "size": 45353,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 130,
+                    "width": 338,
+                    "height": 529
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes214.jpg": {
+        "filename": "clothes214.jpg",
+        "size": 24121,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 79,
+                    "y": 58,
+                    "width": 255,
+                    "height": 361
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes215.jpg": {
+        "filename": "clothes215.jpg",
+        "size": 16809,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 7,
+                    "y": 80,
+                    "width": 374,
+                    "height": 375
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes217.jpg": {
+        "filename": "clothes217.jpg",
+        "size": 20523,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 97,
+                    "width": 363,
+                    "height": 351
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes220.jpg": {
+        "filename": "clothes220.jpg",
+        "size": 33337,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 161,
+                    "width": 323,
+                    "height": 250
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes231.jpg": {
+        "filename": "clothes231.jpg",
+        "size": 45069,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 79,
+                    "width": 379,
+                    "height": 387
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes235.jpg": {
+        "filename": "clothes235.jpg",
+        "size": 42746,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 145,
+                    "width": 258,
+                    "height": 424
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes241.jpg": {
+        "filename": "clothes241.jpg",
+        "size": 30832,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 88,
+                    "width": 381,
+                    "height": 449
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes273.jpg": {
+        "filename": "clothes273.jpg",
+        "size": 46978,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 67,
+                    "width": 348,
+                    "height": 385
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes284.jpg": {
+        "filename": "clothes284.jpg",
+        "size": 14961,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 27,
+                    "y": 56,
+                    "width": 332,
+                    "height": 435
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes289.jpg": {
+        "filename": "clothes289.jpg",
+        "size": 14869,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 73,
+                    "width": 281,
+                    "height": 338
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes290.jpg": {
+        "filename": "clothes290.jpg",
+        "size": 28825,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 13,
+                    "y": 76,
+                    "width": 408,
+                    "height": 291
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes353.jpg": {
+        "filename": "clothes353.jpg",
+        "size": 19836,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 109,
+                    "width": 347,
+                    "height": 428
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes375.jpg": {
+        "filename": "clothes375.jpg",
+        "size": 47973,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 3,
+                    "y": 96,
+                    "width": 384,
+                    "height": 334
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes397.jpg": {
+        "filename": "clothes397.jpg",
+        "size": 18762,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 55,
+                    "y": 75,
+                    "width": 324,
+                    "height": 305
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes402.jpg": {
+        "filename": "clothes402.jpg",
+        "size": 14064,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 22,
+                    "y": 52,
+                    "width": 312,
+                    "height": 426
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes506.jpg": {
+        "filename": "clothes506.jpg",
+        "size": 54158,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 108,
+                    "width": 271,
+                    "height": 263
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes527.jpg": {
+        "filename": "clothes527.jpg",
+        "size": 21657,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 67,
+                    "y": 93,
+                    "width": 275,
+                    "height": 310
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes554.jpg": {
+        "filename": "clothes554.jpg",
+        "size": 36873,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 23,
+                    "y": 39,
+                    "width": 484,
+                    "height": 296
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes593.jpg": {
+        "filename": "clothes593.jpg",
+        "size": 50378,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 21,
+                    "y": 103,
+                    "width": 375,
+                    "height": 346
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes610.jpg": {
+        "filename": "clothes610.jpg",
+        "size": 23348,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 77,
+                    "y": 85,
+                    "width": 254,
+                    "height": 378
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes618.jpg": {
+        "filename": "clothes618.jpg",
+        "size": 47182,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 97,
+                    "width": 375,
+                    "height": 292
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes628.jpg": {
+        "filename": "clothes628.jpg",
+        "size": 46033,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 30,
+                    "y": 99,
+                    "width": 351,
+                    "height": 354
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes646.jpg": {
+        "filename": "clothes646.jpg",
+        "size": 12464,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 71,
+                    "y": 17,
+                    "width": 252,
+                    "height": 414
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes660.jpg": {
+        "filename": "clothes660.jpg",
+        "size": 24274,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 39,
+                    "y": 85,
+                    "width": 326,
+                    "height": 347
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes683.jpg": {
+        "filename": "clothes683.jpg",
+        "size": 43307,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 105,
+                    "y": 60,
+                    "width": 294,
+                    "height": 278
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes693.jpg": {
+        "filename": "clothes693.jpg",
+        "size": 19096,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 74,
+                    "width": 399,
+                    "height": 409
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes709.jpg": {
+        "filename": "clothes709.jpg",
+        "size": 25276,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 38,
+                    "y": 1,
+                    "width": 284,
+                    "height": 528
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes716.jpg": {
+        "filename": "clothes716.jpg",
+        "size": 43087,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 142,
+                    "width": 353,
+                    "height": 335
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes745.jpg": {
+        "filename": "clothes745.jpg",
+        "size": 13028,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 79,
+                    "width": 286,
+                    "height": 423
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes754.jpg": {
+        "filename": "clothes754.jpg",
+        "size": 13559,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 98,
+                    "width": 243,
+                    "height": 393
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes770.jpg": {
+        "filename": "clothes770.jpg",
+        "size": 12534,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 116,
+                    "y": 33,
+                    "width": 195,
+                    "height": 497
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes805.jpg": {
+        "filename": "clothes805.jpg",
+        "size": 20720,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 45,
+                    "width": 279,
+                    "height": 476
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes817.jpg": {
+        "filename": "clothes817.jpg",
+        "size": 15861,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 25,
+                    "y": 152,
+                    "width": 360,
+                    "height": 526
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes820.jpg": {
+        "filename": "clothes820.jpg",
+        "size": 15056,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 9,
+                    "y": 76,
+                    "width": 379,
+                    "height": 286
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes822.jpg": {
+        "filename": "clothes822.jpg",
+        "size": 19404,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 1,
+                    "y": 66,
+                    "width": 391,
+                    "height": 417
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes827.jpg": {
+        "filename": "clothes827.jpg",
+        "size": 26897,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 15,
+                    "y": 65,
+                    "width": 355,
+                    "height": 447
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes890.jpg": {
+        "filename": "clothes890.jpg",
+        "size": 16054,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 8,
+                    "y": 38,
+                    "width": 390,
+                    "height": 315
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes897.jpg": {
+        "filename": "clothes897.jpg",
+        "size": 14685,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 38,
+                    "width": 361,
+                    "height": 468
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes901.jpg": {
+        "filename": "clothes901.jpg",
+        "size": 40213,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 42,
+                    "y": 102,
+                    "width": 297,
+                    "height": 398
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes915.jpg": {
+        "filename": "clothes915.jpg",
+        "size": 32830,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 0,
+                    "y": 84,
+                    "width": 397,
+                    "height": 545
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes949.jpg": {
+        "filename": "clothes949.jpg",
+        "size": 14461,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 57,
+                    "width": 309,
+                    "height": 407
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes964.jpg": {
+        "filename": "clothes964.jpg",
+        "size": 20725,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 87,
+                    "width": 293,
+                    "height": 392
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1013.jpg": {
+        "filename": "clothes1013.jpg",
+        "size": 18140,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 31,
+                    "y": 46,
+                    "width": 319,
+                    "height": 431
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1021.jpg": {
+        "filename": "clothes1021.jpg",
+        "size": 23737,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 158,
+                    "y": 39,
+                    "width": 331,
+                    "height": 333
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1025.jpg": {
+        "filename": "clothes1025.jpg",
+        "size": 14883,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 81,
+                    "y": 49,
+                    "width": 399,
+                    "height": 348
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1052.jpg": {
+        "filename": "clothes1052.jpg",
+        "size": 32946,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 61,
+                    "width": 268,
+                    "height": 296
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1063.jpg": {
+        "filename": "clothes1063.jpg",
+        "size": 29157,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 63,
+                    "y": 60,
+                    "width": 287,
+                    "height": 378
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1084.jpg": {
+        "filename": "clothes1084.jpg",
+        "size": 28501,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 50,
+                    "y": 45,
+                    "width": 277,
+                    "height": 358
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1088.jpg": {
+        "filename": "clothes1088.jpg",
+        "size": 22705,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 33,
+                    "y": 23,
+                    "width": 471,
+                    "height": 316
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1144.jpg": {
+        "filename": "clothes1144.jpg",
+        "size": 34847,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 89,
+                    "y": 0,
+                    "width": 415,
+                    "height": 369
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1159.jpg": {
+        "filename": "clothes1159.jpg",
+        "size": 26216,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 6,
+                    "y": 42,
+                    "width": 393,
+                    "height": 459
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1161.jpg": {
+        "filename": "clothes1161.jpg",
+        "size": 51520,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 119,
+                    "width": 317,
+                    "height": 509
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1184.jpg": {
+        "filename": "clothes1184.jpg",
+        "size": 30473,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 18,
+                    "y": 56,
+                    "width": 342,
+                    "height": 386
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1469.jpg": {
+        "filename": "clothes1469.jpg",
+        "size": 20342,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 78,
+                    "y": 88,
+                    "width": 279,
+                    "height": 382
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1479.jpg": {
+        "filename": "clothes1479.jpg",
+        "size": 19480,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 14,
+                    "y": 197,
+                    "width": 332,
+                    "height": 258
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1552.jpg": {
+        "filename": "clothes1552.jpg",
+        "size": 19917,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 32,
+                    "y": 92,
+                    "width": 272,
+                    "height": 409
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1561.jpg": {
+        "filename": "clothes1561.jpg",
+        "size": 15049,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 83,
+                    "y": 35,
+                    "width": 223,
+                    "height": 365
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes1632.jpg": {
+        "filename": "clothes1632.jpg",
+        "size": 63298,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 53,
+                    "width": 241,
+                    "height": 403
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes2312.jpg": {
+        "filename": "clothes2312.jpg",
+        "size": 25081,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 84,
+                    "y": 55,
+                    "width": 266,
+                    "height": 440
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3150.jpg": {
+        "filename": "clothes3150.jpg",
+        "size": 39383,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 92,
+                    "y": 29,
+                    "width": 316,
+                    "height": 356
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3167.jpg": {
+        "filename": "clothes3167.jpg",
+        "size": 54526,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 66,
+                    "y": 84,
+                    "width": 269,
+                    "height": 312
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3610.jpg": {
+        "filename": "clothes3610.jpg",
+        "size": 35848,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 69,
+                    "y": 51,
+                    "width": 411,
+                    "height": 327
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3662.jpg": {
+        "filename": "clothes3662.jpg",
+        "size": 17062,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 76,
+                    "y": 16,
+                    "width": 237,
+                    "height": 373
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3674.jpg": {
+        "filename": "clothes3674.jpg",
+        "size": 16957,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 95,
+                    "y": 14,
+                    "width": 216,
+                    "height": 497
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3731.jpg": {
+        "filename": "clothes3731.jpg",
+        "size": 14155,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 41,
+                    "y": 80,
+                    "width": 316,
+                    "height": 351
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3817.jpg": {
+        "filename": "clothes3817.jpg",
+        "size": 31054,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 113,
+                    "width": 361,
+                    "height": 323
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3917.jpg": {
+        "filename": "clothes3917.jpg",
+        "size": 24152,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 111,
+                    "width": 305,
+                    "height": 342
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes3999.jpg": {
+        "filename": "clothes3999.jpg",
+        "size": 42584,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 49,
+                    "y": 111,
+                    "width": 269,
+                    "height": 297
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4096.jpg": {
+        "filename": "clothes4096.jpg",
+        "size": 34427,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 91,
+                    "y": 99,
+                    "width": 220,
+                    "height": 332
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4156.jpg": {
+        "filename": "clothes4156.jpg",
+        "size": 52646,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 57,
+                    "y": 109,
+                    "width": 322,
+                    "height": 312
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4181.jpg": {
+        "filename": "clothes4181.jpg",
+        "size": 36726,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 36,
+                    "y": 104,
+                    "width": 336,
+                    "height": 363
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4457.jpg": {
+        "filename": "clothes4457.jpg",
+        "size": 30082,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 53,
+                    "y": 63,
+                    "width": 328,
+                    "height": 448
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4473.jpg": {
+        "filename": "clothes4473.jpg",
+        "size": 31016,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 129,
+                    "y": 62,
+                    "width": 302,
+                    "height": 246
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes4768.jpg": {
+        "filename": "clothes4768.jpg",
+        "size": 25040,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 73,
+                    "y": 88,
+                    "width": 405,
+                    "height": 261
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes5106.jpg": {
+        "filename": "clothes5106.jpg",
+        "size": 24139,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 10,
+                    "y": 127,
+                    "width": 371,
+                    "height": 549
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes5121.jpg": {
+        "filename": "clothes5121.jpg",
+        "size": 30033,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 34,
+                    "y": 122,
+                    "width": 345,
+                    "height": 333
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes5179.jpg": {
+        "filename": "clothes5179.jpg",
+        "size": 13234,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 44,
+                    "y": 54,
+                    "width": 336,
+                    "height": 311
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes5180.jpg": {
+        "filename": "clothes5180.jpg",
+        "size": 23026,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 35,
+                    "y": 69,
+                    "width": 326,
+                    "height": 450
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes5192.jpg": {
+        "filename": "clothes5192.jpg",
+        "size": 48678,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 17,
+                    "y": 129,
+                    "width": 363,
+                    "height": 493
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    },
+    "clothes5194.jpg": {
+        "filename": "clothes5194.jpg",
+        "size": 17803,
+        "regions": [
+            {
+                "shape_attributes": {
+                    "name": "rect",
+                    "x": 64,
+                    "y": 24,
+                    "width": 208,
+                    "height": 440
+                },
+                "region_attributes": {}
+            }
+        ],
+        "file_attributes": {}
+    }
+}
