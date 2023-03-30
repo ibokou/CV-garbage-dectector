@@ -52,7 +52,7 @@ The *Setup* block needs always to be executed.
 The results of the training are already part of this project (results/classification/benchmark.csv), so the
 *Show test results* block can be executed without starting the *Run Benchmark* block.
 
-### Faster RCCN Garbage Detection Benchmark
+### Faster RCNN Garbage Detection Benchmark
 
 The *Setup* block needs to be executed first, as well.
 The results are under results/detection/benchmark.csv
