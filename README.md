@@ -70,7 +70,7 @@ The simplest way to reproduce the results is by using the Google Colab notebook.
 See [Garbage Classifier Google Colab](https://colab.research.google.com/drive/1B7BdAqk0vazvmtAoMTy6LvGNu4T1dwkb?usp=sharing)
 
 
-While working on our project, we also worked on a proof of concept using TensorFlow. See
+While working on our project, we also worked on a proof of concept using TensorFlow. We sometimes experienced better performance here. In the notebook itself an older model can be chosen. This model was not trained as long as the final TensorFlow model and can perform better. We suspect that the this model better generalises due to less training and less overfitting. See
 [Garbage Classifier with TensorFlow Google Colab](https://colab.research.google.com/drive/1oEVayMMwGKNntMHY51VV-3IrWvUNuE1y?usp=sharing)
 
 Just go to the Google Colab Menu "Runtime" then click on "Run all" this will take approximately 5 minutes for the TensorFlow PoC.
